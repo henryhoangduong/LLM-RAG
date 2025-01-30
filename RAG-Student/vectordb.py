@@ -10,3 +10,7 @@ import os
 import yaml
 
 
+with open("db_config.yml","r") as f:
+    db_config = yaml.safe_load(f)
+
+    
