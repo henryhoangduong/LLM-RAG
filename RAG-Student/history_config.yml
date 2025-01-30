@@ -1,0 +1,2 @@
+history_path: "./data_store/history/"
+history_k_retrieve: 3
