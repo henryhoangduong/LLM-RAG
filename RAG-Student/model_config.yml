@@ -1,5 +1,5 @@
 chatbot_path:
-  Q5bit: "models/Vinallama/vinallama-7b-chat_q5_0.gguf"
+  Q5bit: "models/vinallama-7b-chat_q5_0.gguf"
 
 chatbot_type: "llama"
 
