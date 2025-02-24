@@ -1,0 +1,12 @@
+langchain_community
+pypdf
+langchain-chroma
+sentence-transformers
+pdfminer.six
+transformers
+langchain-huggingface
+langchain_chroma
+streamlit
+langchain-google-genai
+python-dotenv
+streamlit-pdf-viewer
