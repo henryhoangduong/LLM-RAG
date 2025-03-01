@@ -1,12 +1,15 @@
 import numpy as np
 import chromadb
 from pypdf import PdfReader
+
+
 def project_embeddings(embeddings, umap_transform):
     projected_embeddings = umap_transform.transform(embeddings)
     return projected_embeddings
 
-def word_wrap(text, width = 87):
-     return "\n".join([text[i : i + width] for i in range(0, len(text), width)])
+
+def word_wrap(text, width=87):
+    return "\n".join([text[i : i + width] for i in range(0, len(text), width)])
 
 
 def extract_text_from_pdf(file_path):

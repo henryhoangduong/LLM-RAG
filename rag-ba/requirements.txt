@@ -10,3 +10,4 @@ streamlit
 langchain-google-genai
 python-dotenv
 streamlit-pdf-viewer
+PyPDF2
