@@ -1,0 +1,7431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="HỌC QUỐC">
+  <data key="d0">MISC</data>
+</node>
+<node id="PHỐ HỒ CHÍ MINH">
+  <data key="d0">ORG</data>
+</node>
+<node id="TRƯỜNG">
+  <data key="d0">MISC</data>
+</node>
+<node id="HỌC CÔNG NGHỆ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nguyễn Đình Thuân">
+  <data key="d0">PER</data>
+</node>
+<node id="Thị Viết Hương">
+  <data key="d0">PER</data>
+</node>
+<node id="GIÁO">
+  <data key="d0">MISC</data>
+</node>
+<node id="TRÌNH">
+  <data key="d0">MISC</data>
+</node>
+<node id="Công">
+  <data key="d0">LOC</data>
+</node>
+<node id="được tạo ra">
+  <data key="d0">PER</data>
+</node>
+<node id="khai thác tối đa">
+  <data key="d0">PER</data>
+</node>
+<node id="các doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa ra những">
+  <data key="d0">PER</data>
+</node>
+<node id="được biên">
+  <data key="d0">PER</data>
+</node>
+<node id="trang bị cho">
+  <data key="d0">PER</data>
+</node>
+<node id="kê">
+  <data key="d0">ORG</data>
+</node>
+<node id="thuật toán">
+  <data key="d0">PER</data>
+</node>
+<node id="các công">
+  <data key="d0">ORG</data>
+</node>
+<node id="R">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 3">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 4: Mô hình hồi quy">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics &#10;Chương 5: Dự">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 6:">
+  <data key="d0">MISC</data>
+</node>
+<node id="Máy">
+  <data key="d0">PER</data>
+</node>
+<node id="QR">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chúng">
+  <data key="d0">PER</data>
+</node>
+<node id="các">
+  <data key="d0">ORG</data>
+</node>
+<node id="được các ý kiến">
+  <data key="d0">PER</data>
+</node>
+<node id="MỤC LỤC &#10;Chương 1">
+  <data key="d0">ORG</data>
+</node>
+<node id="TỔNG QUAN">
+  <data key="d0">MISC</data>
+</node>
+<node id="TÍCH DỮ LIỆU">
+  <data key="d0">MISC</data>
+</node>
+<node id="KÊ MÔ">
+  <data key="d0">ORG</data>
+</node>
+<node id="TẢ">
+  <data key="d0">ORG</data>
+</node>
+<node id="Các">
+  <data key="d0">PER</data>
+</node>
+<node id="................................................................................... 3">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mạng nơ-ron nhân">
+  <data key="d0">MISC</data>
+</node>
+<node id="Khai">
+  <data key="d0">MISC</data>
+</node>
+<node id="........................................................................................................">
+  <data key="d0">ORG</data>
+</node>
+<node id="Thực">
+  <data key="d0">PER</data>
+</node>
+<node id="R ...........................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="DIỄN GIẢI DỮ LIỆU">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ví dụ 1 ...................................................................................................................... 29">
+  <data key="d0">MISC</data>
+</node>
+<node id="Kiểm">
+  <data key="d0">LOC</data>
+</node>
+<node id="Kiểm định Levene">
+  <data key="d0">MISC</data>
+</node>
+<node id="ANOVA 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hậu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tukey">
+  <data key="d0">PER</data>
+</node>
+<node id="ANOVA 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Kieቻm định Chi-Square">
+  <data key="d0">LOC</data>
+</node>
+<node id="ANOVA">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chi-Square">
+  <data key="d0">LOC</data>
+</node>
+<node id="PHÂN TÍCH">
+  <data key="d0">MISC</data>
+</node>
+<node id="Phương">
+  <data key="d0">PER</data>
+</node>
+<node id="Gauss Newton">
+  <data key="d0">PER</data>
+</node>
+<node id="Đánh">
+  <data key="d0">PER</data>
+</node>
+<node id="Dựa vào R">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python Thực">
+  <data key="d0">PER</data>
+</node>
+<node id="R .....................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="R ........................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="........................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="MÔ HÌNH HỒI QUY LOGISTICS ..................................................................... 91">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics ........................................................................................ 91">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hàm Logistic Response">
+  <data key="d0">PER</data>
+</node>
+<node id="Hàm Logit">
+  <data key="d0">PER</data>
+</node>
+<node id="Likelihood">
+  <data key="d0">LOC</data>
+</node>
+<node id="Maximum Likelihood">
+  <data key="d0">PER</data>
+</node>
+<node id="Logistics ...................................... 98">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics ..................................................................... 99">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics ................. 100">
+  <data key="d0">MISC</data>
+</node>
+<node id="DỰ BÁO DỮ">
+  <data key="d0">MISC</data>
+</node>
+<node id="CHUỖI THỜI GIAN">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chuỗi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Autoregressive Integrated Moving Average">
+  <data key="d0">ORG</data>
+</node>
+<node id="– ARIMA ........... 112">
+  <data key="d0">MISC</data>
+</node>
+<node id="Autoregressive – AR">
+  <data key="d0">MISC</data>
+</node>
+<node id="Moving average">
+  <data key="d0">MISC</data>
+</node>
+<node id="– MA">
+  <data key="d0">ORG</data>
+</node>
+<node id="Tích">
+  <data key="d0">LOC</data>
+</node>
+<node id="Integrated – I">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA.................................................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="Exogenous &#10;Variables">
+  <data key="d0">PER</data>
+</node>
+<node id="Seasonal Autoregressive Integrated Moving Average –">
+  <data key="d0">ORG</data>
+</node>
+<node id="SARIMA">
+  <data key="d0">MISC</data>
+</node>
+<node id="Long">
+  <data key="d0">PER</data>
+</node>
+<node id="– LSTM ................................................... 117">
+  <data key="d0">MISC</data>
+</node>
+<node id="MÁY HỌC VÀ">
+  <data key="d0">MISC</data>
+</node>
+<node id="RNN">
+  <data key="d0">ORG</data>
+</node>
+<node id="Anomoly Detection">
+  <data key="d0">MISC</data>
+</node>
+<node id="CHƯƠNG">
+  <data key="d0">ORG</data>
+</node>
+<node id="DẪN SỬ DỤNG SÁCH">
+  <data key="d0">MISC</data>
+</node>
+<node id="TÀI LIỆU">
+  <data key="d0">MISC</data>
+</node>
+<node id="DANH M ỤC HÌNH &#10;Hình 1.1  Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id=".......................................................................................... 11  &#10;Hình 1.2  Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="Minh">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 1.7  Cửa">
+  <data key="d0">MISC</data>
+</node>
+<node id="R ................................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="R Studio">
+  <data key="d0">MISC</data>
+</node>
+<node id="Histogram GDP trên">
+  <data key="d0">MISC</data>
+</node>
+<node id="R ............................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 1.10  Biểu">
+  <data key="d0">LOC</data>
+</node>
+<node id="Boxplot">
+  <data key="d0">ORG</data>
+</node>
+<node id="R ...............................................................................">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 1.12  Biểu">
+  <data key="d0">PER</data>
+</node>
+<node id="Histogram GDP">
+  <data key="d0">MISC</data>
+</node>
+<node id="R.......................................................................... 25  &#10;Hình">
+  <data key="d0">MISC</data>
+</node>
+<node id="ANCOVA">
+  <data key="d0">ORG</data>
+</node>
+<node id="Dataset">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình 2.3  Kết">
+  <data key="d0">PER</data>
+</node>
+<node id="Chi-Square Critical Value">
+  <data key="d0">ORG</data>
+</node>
+<node id="......................................................................................................................................................">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hình 3.1 Mã QR Data Chương">
+  <data key="d0">MISC</data>
+</node>
+<node id="Credit Score">
+  <data key="d0">PER</data>
+</node>
+<node id="gian chờ">
+  <data key="d0">PER</data>
+</node>
+<node id="Z1 ......................................................................................................... 69  &#10;Hình 3.6  Thêm">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z2 ......................................................................................................... 69  &#10;Hình">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hồ Chí Minh">
+  <data key="d0">ORG</data>
+</node>
+<node id="BIểu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistic Response">
+  <data key="d0">ORG</data>
+</node>
+<node id="Logistics ......................................... 100  &#10;Hình 4.4  Sample Dataset">
+  <data key="d0">MISC</data>
+</node>
+<node id="SVM .................................................................. 129  &#10;Hình 6.2  Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="ron hồi quy">
+  <data key="d0">PER</data>
+</node>
+<node id="xanh dương">
+  <data key="d0">PER</data>
+</node>
+<node id="SimpleRNN">
+  <data key="d0">MISC</data>
+</node>
+<node id="Isolation Forest">
+  <data key="d0">ORG</data>
+</node>
+<node id="quan điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="Bitcoin  ............................................ 141  &#10;Hình 6.11  Đồ thị về Closing Price">
+  <data key="d0">MISC</data>
+</node>
+<node id="index BTC">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 6.13  Biểu">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hình 6.15 Biểu">
+  <data key="d0">MISC</data>
+</node>
+<node id="DANH M ỤC">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bảng 2-2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bảng">
+  <data key="d0">LOC</data>
+</node>
+<node id="Bảng 2-4">
+  <data key="d0">MISC</data>
+</node>
+<node id="Doanh">
+  <data key="d0">LOC</data>
+</node>
+<node id="Trong">
+  <data key="d0">LOC</data>
+</node>
+<node id="Mean">
+  <data key="d0">LOC</data>
+</node>
+<node id="Overall">
+  <data key="d0">PER</data>
+</node>
+<node id="Thương">
+  <data key="d0">LOC</data>
+</node>
+<node id="Loại">
+  <data key="d0">PER</data>
+</node>
+<node id="Bảng 2-7">
+  <data key="d0">MISC</data>
+</node>
+<node id="........................................................................ 47  &#10;Bảng 2-8">
+  <data key="d0">MISC</data>
+</node>
+<node id="được">
+  <data key="d0">PER</data>
+</node>
+<node id="theo bảng">
+  <data key="d0">PER</data>
+</node>
+<node id="theo">
+  <data key="d0">PER</data>
+</node>
+<node id="Bảng 3.1  Bảng">
+  <data key="d0">MISC</data>
+</node>
+<node id="MÔ TẢ &#10;Chương">
+  <data key="d0">ORG</data>
+</node>
+<node id="đến các">
+  <data key="d0">PER</data>
+</node>
+<node id="Nội">
+  <data key="d0">PER</data>
+</node>
+<node id="cần thiết">
+  <data key="d0">PER</data>
+</node>
+<node id="xử lý &#10;chúng">
+  <data key="d0">PER</data>
+</node>
+<node id="đến những">
+  <data key="d0">PER</data>
+</node>
+<node id="khai thác dữ &#10;liệu">
+  <data key="d0">PER</data>
+</node>
+<node id="hóa dữ liệu">
+  <data key="d0">PER</data>
+</node>
+<node id="John W. Tukey">
+  <data key="d0">PER</data>
+</node>
+<node id="The Future of Data Analysis">
+  <data key="d0">MISC</data>
+</node>
+<node id="điều">
+  <data key="d0">LOC</data>
+</node>
+<node id="ra đời">
+  <data key="d0">PER</data>
+</node>
+<node id="khai thác">
+  <data key="d0">PER</data>
+</node>
+<node id="các khái">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm điểm dữ liệu">
+  <data key="d0">PER</data>
+</node>
+<node id="ngày bao">
+  <data key="d0">PER</data>
+</node>
+<node id="khai thác được">
+  <data key="d0">PER</data>
+</node>
+<node id="hình máy">
+  <data key="d0">PER</data>
+</node>
+<node id="kê để khai">
+  <data key="d0">MISC</data>
+</node>
+<node id="được các">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa ra">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa ra các chiến">
+  <data key="d0">PER</data>
+</node>
+<node id="trải nghiệm">
+  <data key="d0">PER</data>
+</node>
+<node id="đẩy doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="hoặc">
+  <data key="d0">PER</data>
+</node>
+<node id="xảy ra">
+  <data key="d0">PER</data>
+</node>
+<node id="được tìm kiếm">
+  <data key="d0">PER</data>
+</node>
+<node id="được chia thành">
+  <data key="d0">PER</data>
+</node>
+<node id="SEO">
+  <data key="d0">MISC</data>
+</node>
+<node id="Google Ads">
+  <data key="d0">MISC</data>
+</node>
+<node id="Social &#10;Media">
+  <data key="d0">ORG</data>
+</node>
+<node id="VIP">
+  <data key="d0">ORG</data>
+</node>
+<node id="Bắc">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nam">
+  <data key="d0">PER</data>
+</node>
+<node id="Biến">
+  <data key="d0">PER</data>
+</node>
+<node id="cho">
+  <data key="d0">ORG</data>
+</node>
+<node id="gồm các bước">
+  <data key="d0">PER</data>
+</node>
+<node id="xử lý dữ liệu thiếu">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác trong">
+  <data key="d0">PER</data>
+</node>
+<node id="hoặc các &#10;giá">
+  <data key="d0">PER</data>
+</node>
+<node id="Chuyển">
+  <data key="d0">LOC</data>
+</node>
+<node id="ra các biến">
+  <data key="d0">PER</data>
+</node>
+<node id="nhằm khám">
+  <data key="d0">PER</data>
+</node>
+<node id="xử lý ngoại">
+  <data key="d0">PER</data>
+</node>
+<node id="ngoại lệ">
+  <data key="d0">PER</data>
+</node>
+<node id="hóa phổ biến bao">
+  <data key="d0">PER</data>
+</node>
+<node id="Min-max">
+  <data key="d0">PER</data>
+</node>
+<node id="các khách">
+  <data key="d0">PER</data>
+</node>
+<node id="theo nhân khẩu">
+  <data key="d0">PER</data>
+</node>
+<node id="được chiến">
+  <data key="d0">PER</data>
+</node>
+<node id="theo thời">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm tương">
+  <data key="d0">PER</data>
+</node>
+<node id="theo các thời &#10;điểm đăng">
+  <data key="d0">PER</data>
+</node>
+<node id="Phân">
+  <data key="d0">PER</data>
+</node>
+<node id="các biến">
+  <data key="d0">PER</data>
+</node>
+<node id="được cách">
+  <data key="d0">PER</data>
+</node>
+<node id="các xu hướng">
+  <data key="d0">PER</data>
+</node>
+<node id="các dữ liệu">
+  <data key="d0">MISC</data>
+</node>
+<node id="các thuộc">
+  <data key="d0">PER</data>
+</node>
+<node id="Mạng nơ-ron nhân tạo &#10;Mạng">
+  <data key="d0">PER</data>
+</node>
+<node id="Networks">
+  <data key="d0">MISC</data>
+</node>
+<node id="các &#10;thuật">
+  <data key="d0">PER</data>
+</node>
+<node id="toán máy">
+  <data key="d0">PER</data>
+</node>
+<node id="hiện nay">
+  <data key="d0">PER</data>
+</node>
+<node id="theo cấu trúc">
+  <data key="d0">PER</data>
+</node>
+<node id="trích xuất được">
+  <data key="d0">PER</data>
+</node>
+<node id="hoặc xử lí &#10;hình">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm khách">
+  <data key="d0">PER</data>
+</node>
+<node id="ra ba">
+  <data key="d0">PER</data>
+</node>
+<node id="thiết kế">
+  <data key="d0">PER</data>
+</node>
+<node id="các mối">
+  <data key="d0">PER</data>
+</node>
+<node id="xu hướng">
+  <data key="d0">PER</data>
+</node>
+<node id="các thuật">
+  <data key="d0">PER</data>
+</node>
+<node id="hoặc luật">
+  <data key="d0">PER</data>
+</node>
+<node id="ra các">
+  <data key="d0">PER</data>
+</node>
+<node id="được mua &#10;chung">
+  <data key="d0">PER</data>
+</node>
+<node id="trích xuất các &#10;thông">
+  <data key="d0">PER</data>
+</node>
+<node id="Trải">
+  <data key="d0">LOC</data>
+</node>
+<node id="ứng">
+  <data key="d0">ORG</data>
+</node>
+<node id="các đánh">
+  <data key="d0">PER</data>
+</node>
+<node id="thiết">
+  <data key="d0">PER</data>
+</node>
+<node id="công ty">
+  <data key="d0">ORG</data>
+</node>
+<node id="đến năng">
+  <data key="d0">PER</data>
+</node>
+<node id="Time series analysis">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo trình">
+  <data key="d0">PER</data>
+</node>
+<node id="mùa vụ">
+  <data key="d0">PER</data>
+</node>
+<node id="gây ra biến">
+  <data key="d0">PER</data>
+</node>
+<node id="xây dựng mô hình &#10;dự đoán">
+  <data key="d0">PER</data>
+</node>
+<node id="đánh">
+  <data key="d0">PER</data>
+</node>
+<node id="mùa hè">
+  <data key="d0">PER</data>
+</node>
+<node id="được xu">
+  <data key="d0">PER</data>
+</node>
+<node id="tổ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Cây">
+  <data key="d0">PER</data>
+</node>
+<node id="Decision Trees">
+  <data key="d0">LOC</data>
+</node>
+<node id="tính hoặc">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa ra &#10;các">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác hơn">
+  <data key="d0">PER</data>
+</node>
+<node id="xuất điện thoại">
+  <data key="d0">PER</data>
+</node>
+<node id="các phiên">
+  <data key="d0">PER</data>
+</node>
+<node id="hình sắc nét">
+  <data key="d0">PER</data>
+</node>
+<node id="tối đa hóa &#10;doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="Count">
+  <data key="d0">PER</data>
+</node>
+<node id="Min">
+  <data key="d0">PER</data>
+</node>
+<node id="Max">
+  <data key="d0">PER</data>
+</node>
+<node id="Median">
+  <data key="d0">LOC</data>
+</node>
+<node id="Mode">
+  <data key="d0">MISC</data>
+</node>
+<node id="Quantile">
+  <data key="d0">LOC</data>
+</node>
+<node id="Range">
+  <data key="d0">LOC</data>
+</node>
+<node id="Variance">
+  <data key="d0">PER</data>
+</node>
+<node id="Standard Deviation">
+  <data key="d0">MISC</data>
+</node>
+<node id="Coefficient &#10;of Variation">
+  <data key="d0">MISC</data>
+</node>
+<node id="Skewness">
+  <data key="d0">LOC</data>
+</node>
+<node id="Kurtosis">
+  <data key="d0">LOC</data>
+</node>
+<node id="các &#10;quan">
+  <data key="d0">PER</data>
+</node>
+<node id="tuy &#10;nhiên">
+  <data key="d0">PER</data>
+</node>
+<node id="phù hợp">
+  <data key="d0">PER</data>
+</node>
+<node id="thuộc vào đặc &#10;điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="Mốt &#10;Mốt">
+  <data key="d0">PER</data>
+</node>
+<node id="Trung bình">
+  <data key="d0">MISC</data>
+</node>
+<node id="௜ୀଵ">
+  <data key="d0">PER</data>
+</node>
+<node id="bởi các">
+  <data key="d0">PER</data>
+</node>
+<node id="ଶ+1ቕቁ">
+  <data key="d0">MISC</data>
+</node>
+<node id="N">
+  <data key="d0">LOC</data>
+</node>
+<node id="khi">
+  <data key="d0">ORG</data>
+</node>
+<node id="sắp xếp">
+  <data key="d0">PER</data>
+</node>
+<node id="Tứ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Q1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Q2">
+  <data key="d0">LOC</data>
+</node>
+<node id="Q3">
+  <data key="d0">MISC</data>
+</node>
+<node id="khoảng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Interquartile Range">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 1.2 Minh">
+  <data key="d0">ORG</data>
+</node>
+<node id="Nếu">
+  <data key="d0">LOC</data>
+</node>
+<node id="mốt cung cấp thông">
+  <data key="d0">PER</data>
+</node>
+<node id="Phạm">
+  <data key="d0">LOC</data>
+</node>
+<node id="–">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑛−1෍(𝑥௜−𝑥̅)ଶ௡">
+  <data key="d0">MISC</data>
+</node>
+<node id="được minh">
+  <data key="d0">PER</data>
+</node>
+<node id="Tương">
+  <data key="d0">PER</data>
+</node>
+<node id="được các đặc">
+  <data key="d0">PER</data>
+</node>
+<node id="các đặc">
+  <data key="d0">MISC</data>
+</node>
+<node id="được tính chất">
+  <data key="d0">PER</data>
+</node>
+<node id="tính được">
+  <data key="d0">PER</data>
+</node>
+<node id="Fisher">
+  <data key="d0">PER</data>
+</node>
+<node id="Pearson">
+  <data key="d0">PER</data>
+</node>
+<node id="Galton">
+  <data key="d0">PER</data>
+</node>
+<node id="Bowley">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑆஻௢௪௟௘௬=𝑄ଷ+𝑄ଵ−2𝑄ଶ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Với 𝑄ଵ là tứ phân">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆௉௘௔௥௦௢௡">
+  <data key="d0">MISC</data>
+</node>
+<node id=".𝑥ො">
+  <data key="d0">MISC</data>
+</node>
+<node id="Dựa vào Hình">
+  <data key="d0">PER</data>
+</node>
+<node id="Positive Skewness): Khi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Symmetrical Distribution): Khi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Negative Skewness): Khi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Việc">
+  <data key="d0">MISC</data>
+</node>
+<node id="các kết">
+  <data key="d0">PER</data>
+</node>
+<node id="cứu về">
+  <data key="d0">PER</data>
+</node>
+<node id="phải xử lý các">
+  <data key="d0">PER</data>
+</node>
+<node id="sâu hơn">
+  <data key="d0">PER</data>
+</node>
+<node id="chính &#10;xác">
+  <data key="d0">PER</data>
+</node>
+<node id="௫೔∈ே(1−13">
+  <data key="d0">LOC</data>
+</node>
+<node id="Mesokurtic">
+  <data key="d0">MISC</data>
+</node>
+<node id="Platykurtic">
+  <data key="d0">MISC</data>
+</node>
+<node id="Leptokurtic">
+  <data key="d0">MISC</data>
+</node>
+<node id="Biểu">
+  <data key="d0">PER</data>
+</node>
+<node id="các cột">
+  <data key="d0">ORG</data>
+</node>
+<node id="xuất hiện">
+  <data key="d0">PER</data>
+</node>
+<node id="bao gồm các">
+  <data key="d0">PER</data>
+</node>
+<node id="Đối">
+  <data key="d0">PER</data>
+</node>
+<node id="Ngay">
+  <data key="d0">ORG</data>
+</node>
+<node id="biến rời">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 1.4 Biểu">
+  <data key="d0">PER</data>
+</node>
+<node id="các đặc trưng">
+  <data key="d0">MISC</data>
+</node>
+<node id="khoảng biến">
+  <data key="d0">PER</data>
+</node>
+<node id="hóa các">
+  <data key="d0">PER</data>
+</node>
+<node id="Q2 - đồng">
+  <data key="d0">LOC</data>
+</node>
+<node id="Khoảng">
+  <data key="d0">PER</data>
+</node>
+<node id="Q1 - 1.5">
+  <data key="d0">MISC</data>
+</node>
+<node id="xử lý các">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác">
+  <data key="d0">PER</data>
+</node>
+<node id="Python &#10;R">
+  <data key="d0">MISC</data>
+</node>
+<node id="thuộc vào">
+  <data key="d0">PER</data>
+</node>
+<node id="khó &#10;cao">
+  <data key="d0">PER</data>
+</node>
+<node id="Ứng Dụng">
+  <data key="d0">MISC</data>
+</node>
+<node id="được dùng">
+  <data key="d0">PER</data>
+</node>
+<node id="NumPy">
+  <data key="d0">ORG</data>
+</node>
+<node id="Matplotlib">
+  <data key="d0">MISC</data>
+</node>
+<node id="SciPy">
+  <data key="d0">MISC</data>
+</node>
+<node id="cung cấp nhiều">
+  <data key="d0">PER</data>
+</node>
+<node id="Python &#10; &#10;Hình 1.6 Driver Dataset">
+  <data key="d0">MISC</data>
+</node>
+<node id="Việt Nam">
+  <data key="d0">LOC</data>
+</node>
+<node id="R &#10; &#10;Hình 1.7 Cửa">
+  <data key="d0">MISC</data>
+</node>
+<node id="R &#10;Để">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàm">
+  <data key="d0">ORG</data>
+</node>
+<node id="Kurtosis trong R">
+  <data key="d0">MISC</data>
+</node>
+<node id="Cách">
+  <data key="d0">LOC</data>
+</node>
+<node id="Cách 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Rstudio">
+  <data key="d0">PER</data>
+</node>
+<node id="R Studio &#10;Gọi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vẽ">
+  <data key="d0">PER</data>
+</node>
+<node id="Histogram: hist(df$GDP">
+  <data key="d0">MISC</data>
+</node>
+<node id="R &#10;Boxplot:">
+  <data key="d0">MISC</data>
+</node>
+<node id="R &#10;Hai">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo từng">
+  <data key="d0">PER</data>
+</node>
+<node id="Python &#10;Công">
+  <data key="d0">PER</data>
+</node>
+<node id="Jupyter">
+  <data key="d0">MISC</data>
+</node>
+<node id="Google Colab  &#10;Tham">
+  <data key="d0">MISC</data>
+</node>
+<node id="hình minh họa">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình 1.11 Đường">
+  <data key="d0">MISC</data>
+</node>
+<node id="python">
+  <data key="d0">MISC</data>
+</node>
+<node id="lệnh">
+  <data key="d0">MISC</data>
+</node>
+<node id="Google Drive">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tứ">
+  <data key="d0">MISC</data>
+</node>
+<node id="st.variance(df['GDP">
+  <data key="d0">MISC</data>
+</node>
+<node id="Skewness và Kurtosisi của R và Python">
+  <data key="d0">MISC</data>
+</node>
+<node id="một">
+  <data key="d0">PER</data>
+</node>
+<node id="R nên">
+  <data key="d0">MISC</data>
+</node>
+<node id="skewness(df$GDP">
+  <data key="d0">MISC</data>
+</node>
+<node id="https://rdrr.io/rforge/e1071/man/skewness.html">
+  <data key="d0">MISC</data>
+</node>
+<node id="Show Histogram">
+  <data key="d0">MISC</data>
+</node>
+<node id="Histogram GDP trên R">
+  <data key="d0">MISC</data>
+</node>
+<node id="bı̀nh">
+  <data key="d0">ORG</data>
+</node>
+<node id="động">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hãy">
+  <data key="d0">ORG</data>
+</node>
+<node id="một tập">
+  <data key="d0">PER</data>
+</node>
+<node id="độ">
+  <data key="d0">PER</data>
+</node>
+<node id="nào khác">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tại sao độ">
+  <data key="d0">PER</data>
+</node>
+<node id="kê">
+  <data key="d0">ORG</data>
+</node>
+<node id="gı̀ và">
+  <data key="d0">MISC</data>
+</node>
+<node id="Sự">
+  <data key="d0">LOC</data>
+</node>
+<node id="giữa độ bè">
+  <data key="d0">MISC</data>
+</node>
+<node id="nào">
+  <data key="d0">LOC</data>
+</node>
+<node id="phù">
+  <data key="d0">MISC</data>
+</node>
+<node id="Quartile 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Quartile 3">
+  <data key="d0">MISC</data>
+</node>
+<node id="và">
+  <data key="d0">MISC</data>
+</node>
+<node id="Với tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="purchase_orders.csv">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàng hàng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ước">
+  <data key="d0">MISC</data>
+</node>
+<node id="của">
+  <data key="d0">ORG</data>
+</node>
+<node id="Boxplot và Histogram">
+  <data key="d0">PER</data>
+</node>
+<node id="Nhận xét">
+  <data key="d0">MISC</data>
+</node>
+<node id="đây với cột “Close">
+  <data key="d0">MISC</data>
+</node>
+<node id="tâm: Mean">
+  <data key="d0">MISC</data>
+</node>
+<node id="Median &#10;b">
+  <data key="d0">LOC</data>
+</node>
+<node id="hı̀nh dáng và">
+  <data key="d0">MISC</data>
+</node>
+<node id="Quantiles">
+  <data key="d0">PER</data>
+</node>
+<node id="Thực">
+  <data key="d0">MISC</data>
+</node>
+<node id="ngôn">
+  <data key="d0">LOC</data>
+</node>
+<node id="Box-plot">
+  <data key="d0">MISC</data>
+</node>
+<node id="DIỄN GIẢI DỮ LIỆU &#10;Chương">
+  <data key="d0">MISC</data>
+</node>
+<node id="đưa ra kết">
+  <data key="d0">PER</data>
+</node>
+<node id="Chương">
+  <data key="d0">PER</data>
+</node>
+<node id="theo là các">
+  <data key="d0">PER</data>
+</node>
+<node id="khác biệt">
+  <data key="d0">PER</data>
+</node>
+<node id="cung cấp">
+  <data key="d0">PER</data>
+</node>
+<node id="R và &#10;Python">
+  <data key="d0">MISC</data>
+</node>
+<node id="Thông">
+  <data key="d0">LOC</data>
+</node>
+<node id="được trích">
+  <data key="d0">PER</data>
+</node>
+<node id="Bảng 2-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tổng">
+  <data key="d0">LOC</data>
+</node>
+<node id="Mẫu &#10;Số">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑆ଶ &#10;Trong">
+  <data key="d0">PER</data>
+</node>
+<node id="luôn">
+  <data key="d0">LOC</data>
+</node>
+<node id="thể biết">
+  <data key="d0">PER</data>
+</node>
+<node id="xấp xỉ">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑥̅±𝑧ఈ/ଶఙ&#10;√௡ &#10;Cỡ mẫu nhỏ">
+  <data key="d0">MISC</data>
+</node>
+<node id="ra">
+  <data key="d0">PER</data>
+</node>
+<node id="ra hàng &#10;ngày">
+  <data key="d0">PER</data>
+</node>
+<node id="Kích">
+  <data key="d0">LOC</data>
+</node>
+<node id="Giá">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑥̅−𝑧ഀ">
+  <data key="d0">MISC</data>
+</node>
+<node id="hoặc tỷ lệ">
+  <data key="d0">PER</data>
+</node>
+<node id="Hypothesis">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đối thuyết 𝐻ଵ (Alternative &#10;Hypothesis">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ngược">
+  <data key="d0">PER</data>
+</node>
+<node id="Quyết">
+  <data key="d0">LOC</data>
+</node>
+<node id="Xác">
+  <data key="d0">PER</data>
+</node>
+<node id="β &#10;Từ">
+  <data key="d0">LOC</data>
+</node>
+<node id="biến &#10;trong">
+  <data key="d0">PER</data>
+</node>
+<node id="bình được &#10;cho trước">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑆√𝑛">
+  <data key="d0">MISC</data>
+</node>
+<node id="One-Tailed Test">
+  <data key="d0">MISC</data>
+</node>
+<node id="Two-Tailed Test">
+  <data key="d0">MISC</data>
+</node>
+<node id="1 Bài">
+  <data key="d0">LOC</data>
+</node>
+<node id="2 Bài">
+  <data key="d0">LOC</data>
+</node>
+<node id="|𝑇|&lt;𝑧ഀ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Miền">
+  <data key="d0">LOC</data>
+</node>
+<node id="|𝑇|&lt;𝑡ഀ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Miền từ chối giả &#10;thuyết">
+  <data key="d0">MISC</data>
+</node>
+<node id="ටௌభమ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Miền chấp nhận">
+  <data key="d0">MISC</data>
+</node>
+<node id="௡మቁ(2−7">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑉ớ𝑖">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑛ଵ+𝑛ଶ−2 &#10;Miền chấp nhận">
+  <data key="d0">MISC</data>
+</node>
+<node id="మ௡భା௡మିଶ">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝜎ଵ≠𝜎ଶ">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑓ଵିഀ">
+  <data key="d0">MISC</data>
+</node>
+<node id="మ(𝑛ଵ−1,𝑛௦−1)ℎ𝑎𝑦">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑓ഀ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Thực ra">
+  <data key="d0">PER</data>
+</node>
+<node id="A">
+  <data key="d0">LOC</data>
+</node>
+<node id="B">
+  <data key="d0">MISC</data>
+</node>
+<node id="C">
+  <data key="d0">MISC</data>
+</node>
+<node id="A – B">
+  <data key="d0">MISC</data>
+</node>
+<node id="B – C">
+  <data key="d0">MISC</data>
+</node>
+<node id="C – A">
+  <data key="d0">MISC</data>
+</node>
+<node id="các cặp">
+  <data key="d0">ORG</data>
+</node>
+<node id="theo quy tắc bắc cầu sẽ không">
+  <data key="d0">PER</data>
+</node>
+<node id="Analysis of variance">
+  <data key="d0">MISC</data>
+</node>
+<node id="biến nhiễu">
+  <data key="d0">PER</data>
+</node>
+<node id="Analysis of covariance">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝜇௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐻଴:𝜇ଵ=𝜇ଶ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐻ଵ: Tồn">
+  <data key="d0">MISC</data>
+</node>
+<node id="nào">
+  <data key="d0">ORG</data>
+</node>
+<node id="Nghĩa">
+  <data key="d0">PER</data>
+</node>
+<node id="thị cho">
+  <data key="d0">PER</data>
+</node>
+<node id="các điểm buôn">
+  <data key="d0">PER</data>
+</node>
+<node id="bình doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="các mẫu thu &#10;thập">
+  <data key="d0">MISC</data>
+</node>
+<node id="Deviate">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑋ത">
+  <data key="d0">PER</data>
+</node>
+<node id="bình hoặc">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑋ଶ">
+  <data key="d0">MISC</data>
+</node>
+<node id="tình huống hiểu">
+  <data key="d0">PER</data>
+</node>
+<node id="D">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐷௜ଶ=(𝑋௜−𝑋ത)ଶ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Sum of &#10;square">
+  <data key="d0">MISC</data>
+</node>
+<node id="D cũng">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆=(𝑋ଵ−𝑋ത)ଶ+(𝑋ଶ−𝑋ത)ଶ+⋯+(𝑋௡−𝑋ത)ଶ(2−16">
+  <data key="d0">MISC</data>
+</node>
+<node id="Về">
+  <data key="d0">PER</data>
+</node>
+<node id="– &#10;Between group variation">
+  <data key="d0">MISC</data>
+</node>
+<node id="– Within">
+  <data key="d0">MISC</data>
+</node>
+<node id="Between">
+  <data key="d0">LOC</data>
+</node>
+<node id="SSB">
+  <data key="d0">MISC</data>
+</node>
+<node id="– SSW">
+  <data key="d0">MISC</data>
+</node>
+<node id="F">
+  <data key="d0">LOC</data>
+</node>
+<node id="theo tiêu chí">
+  <data key="d0">PER</data>
+</node>
+<node id="Kiểm định Levene &#10;Để">
+  <data key="d0">MISC</data>
+</node>
+<node id="các mẫu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Levene">
+  <data key="d0">PER</data>
+</node>
+<node id="được tính toán">
+  <data key="d0">PER</data>
+</node>
+<node id="Khi">
+  <data key="d0">PER</data>
+</node>
+<node id="gấu phổ biến">
+  <data key="d0">PER</data>
+</node>
+<node id="Bibica">
+  <data key="d0">ORG</data>
+</node>
+<node id="Haribo">
+  <data key="d0">LOC</data>
+</node>
+<node id="Thổ Nhĩ Kỳ">
+  <data key="d0">PER</data>
+</node>
+<node id="L'il Critters">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hoa Kỳ">
+  <data key="d0">LOC</data>
+</node>
+<node id="chất minh họa: &#10;Để">
+  <data key="d0">ORG</data>
+</node>
+<node id="L’il Critter">
+  <data key="d0">PER</data>
+</node>
+<node id="Group Mean">
+  <data key="d0">ORG</data>
+</node>
+<node id="Overall Mean">
+  <data key="d0">LOC</data>
+</node>
+<node id="Trước">
+  <data key="d0">LOC</data>
+</node>
+<node id="௜ିଵ">
+  <data key="d0">MISC</data>
+</node>
+<node id="N୧làsố">
+  <data key="d0">LOC</data>
+</node>
+<node id="Yij">
+  <data key="d0">MISC</data>
+</node>
+<node id="biến được">
+  <data key="d0">PER</data>
+</node>
+<node id="Yı෩">
+  <data key="d0">MISC</data>
+</node>
+<node id="Yనഥ">
+  <data key="d0">PER</data>
+</node>
+<node id="Z୧୨là">
+  <data key="d0">MISC</data>
+</node>
+<node id="୧|,Zనഥ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z୧୨">
+  <data key="d0">LOC</data>
+</node>
+<node id="Zത là giá trị trung bình">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z୧୨ &#10;Ta">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑁ଶ">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑌ଶഥ">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑌ଷഥ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Tính Z">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑍ଷ௝:[|12">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tính">
+  <data key="d0">PER</data>
+</node>
+<node id="𝒁ଙഥ và 𝒁ഥ">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑍ଵ௝/𝑁ଵ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑍ଶ௝/𝑁ଶ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="୧ିଵ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="୨ୀଵ">
+  <data key="d0">LOC</data>
+</node>
+<node id="ଶଵିଷ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Fୡ୰୧">
+  <data key="d0">MISC</data>
+</node>
+<node id="W &lt; F">
+  <data key="d0">MISC</data>
+</node>
+<node id=" Keቷt">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chaቷp">
+  <data key="d0">PER</data>
+</node>
+<node id="giữa các">
+  <data key="d0">MISC</data>
+</node>
+<node id="hiệu">
+  <data key="d0">LOC</data>
+</node>
+<node id="kiện">
+  <data key="d0">LOC</data>
+</node>
+<node id="này">
+  <data key="d0">PER</data>
+</node>
+<node id="Việt Nam">
+  <data key="d0">LOC</data>
+</node>
+<node id="không thı̀">
+  <data key="d0">MISC</data>
+</node>
+<node id="từng">
+  <data key="d0">PER</data>
+</node>
+<node id="sử dụng t">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vı̀ hệ">
+  <data key="d0">MISC</data>
+</node>
+<node id="vı̀">
+  <data key="d0">ORG</data>
+</node>
+<node id="bı̀nh giữa">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vậy">
+  <data key="d0">MISC</data>
+</node>
+<node id="Trong đó">
+  <data key="d0">MISC</data>
+</node>
+<node id="Xഥீ೙">
+  <data key="d0">MISC</data>
+</node>
+<node id="Xഥ">
+  <data key="d0">PER</data>
+</node>
+<node id="SS">
+  <data key="d0">ORG</data>
+</node>
+<node id="gấu được">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑆𝑆𝑊ீమ=(12−13.83">
+  <data key="d0">LOC</data>
+</node>
+<node id="ଶ+(7−13.83">
+  <data key="d0">MISC</data>
+</node>
+<node id="được mức">
+  <data key="d0">PER</data>
+</node>
+<node id="Để">
+  <data key="d0">LOC</data>
+</node>
+<node id="Bậc">
+  <data key="d0">PER</data>
+</node>
+<node id="DF">
+  <data key="d0">LOC</data>
+</node>
+<node id="Bình">
+  <data key="d0">PER</data>
+</node>
+<node id="MS">
+  <data key="d0">ORG</data>
+</node>
+<node id="Nguồn Bậc">
+  <data key="d0">PER</data>
+</node>
+<node id="Giữa">
+  <data key="d0">PER</data>
+</node>
+<node id="Between – B">
+  <data key="d0">MISC</data>
+</node>
+<node id="Within – W">
+  <data key="d0">MISC</data>
+</node>
+<node id="sao cho">
+  <data key="d0">ORG</data>
+</node>
+<node id="bởi">
+  <data key="d0">LOC</data>
+</node>
+<node id="tuy nhiên">
+  <data key="d0">PER</data>
+</node>
+<node id="được tính trước đó">
+  <data key="d0">PER</data>
+</node>
+<node id="SSW">
+  <data key="d0">MISC</data>
+</node>
+<node id="MSB">
+  <data key="d0">ORG</data>
+</node>
+<node id="DFB">
+  <data key="d0">ORG</data>
+</node>
+<node id="DFW">
+  <data key="d0">MISC</data>
+</node>
+<node id="F –">
+  <data key="d0">MISC</data>
+</node>
+<node id="đó trong">
+  <data key="d0">PER</data>
+</node>
+<node id="được xác định">
+  <data key="d0">PER</data>
+</node>
+<node id="các điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="F &#10;– F">
+  <data key="d0">MISC</data>
+</node>
+<node id="Kết">
+  <data key="d0">PER</data>
+</node>
+<node id="Tukey &#10;Tukey">
+  <data key="d0">PER</data>
+</node>
+<node id="hậu">
+  <data key="d0">LOC</data>
+</node>
+<node id="biệt">
+  <data key="d0">LOC</data>
+</node>
+<node id="Honest Signi">
+  <data key="d0">ORG</data>
+</node>
+<node id="của 3">
+  <data key="d0">MISC</data>
+</node>
+<node id="bày">
+  <data key="d0">MISC</data>
+</node>
+<node id="I:{H଴:μଵ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hୟ:μଵ≠">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hୟ:μଶ≠">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hୟ:μଷ≠">
+  <data key="d0">MISC</data>
+</node>
+<node id="định Tukey">
+  <data key="d0">PER</data>
+</node>
+<node id="tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑞ఈ(௣">
+  <data key="d0">MISC</data>
+</node>
+<node id="ௗ௙ಶೝೝ೚ೝ">
+  <data key="d0">MISC</data>
+</node>
+<node id="từ">
+  <data key="d0">MISC</data>
+</node>
+<node id="và bậc">
+  <data key="d0">PER</data>
+</node>
+<node id="Error">
+  <data key="d0">MISC</data>
+</node>
+<node id="là độ">
+  <data key="d0">MISC</data>
+</node>
+<node id="vı̀ vậy">
+  <data key="d0">ORG</data>
+</node>
+<node id="bậc">
+  <data key="d0">LOC</data>
+</node>
+<node id="Giá">
+  <data key="d0">MISC</data>
+</node>
+<node id="bỏ">
+  <data key="d0">ORG</data>
+</node>
+<node id="Quay">
+  <data key="d0">LOC</data>
+</node>
+<node id="dẻo">
+  <data key="d0">MISC</data>
+</node>
+<node id="của từng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vı̀ vậy">
+  <data key="d0">MISC</data>
+</node>
+<node id="hài hòa giữa">
+  <data key="d0">PER</data>
+</node>
+<node id="hành tieቷp &#10;">
+  <data key="d0">MISC</data>
+</node>
+<node id="cận bài">
+  <data key="d0">PER</data>
+</node>
+<node id="Kramer">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑛௝ và">
+  <data key="d0">MISC</data>
+</node>
+<node id="Với mức">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bậc">
+  <data key="d0">MISC</data>
+</node>
+<node id="dòng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bảng 2-5">
+  <data key="d0">MISC</data>
+</node>
+<node id="thực">
+  <data key="d0">MISC</data>
+</node>
+<node id="lượt các">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bác bỏ">
+  <data key="d0">MISC</data>
+</node>
+<node id="|7.14−13.83">
+  <data key="d0">ORG</data>
+</node>
+<node id="Cụ">
+  <data key="d0">LOC</data>
+</node>
+<node id="xảy">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bibica và Haribo">
+  <data key="d0">PER</data>
+</node>
+<node id="biến động">
+  <data key="d0">PER</data>
+</node>
+<node id="Thứ hai">
+  <data key="d0">MISC</data>
+</node>
+<node id="xem có">
+  <data key="d0">ORG</data>
+</node>
+<node id="biến">
+  <data key="d0">PER</data>
+</node>
+<node id="Loại kẹo">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vitamin">
+  <data key="d0">MISC</data>
+</node>
+<node id="được &#10;trình">
+  <data key="d0">PER</data>
+</node>
+<node id="ANOVA Two">
+  <data key="d0">MISC</data>
+</node>
+<node id="– ANOVA">
+  <data key="d0">MISC</data>
+</node>
+<node id="đến doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="Gấu">
+  <data key="d0">MISC</data>
+</node>
+<node id="I.">
+  <data key="d0">PER</data>
+</node>
+<node id="Không">
+  <data key="d0">LOC</data>
+</node>
+<node id="các loại">
+  <data key="d0">PER</data>
+</node>
+<node id="II">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐻ଵ: Có">
+  <data key="d0">MISC</data>
+</node>
+<node id="VitaNonFlavor">
+  <data key="d0">MISC</data>
+</node>
+<node id="C1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mean of B  ∩ C">
+  <data key="d0">LOC</data>
+</node>
+<node id="C2">
+  <data key="d0">LOC</data>
+</node>
+<node id="của các">
+  <data key="d0">MISC</data>
+</node>
+<node id="hành lập">
+  <data key="d0">MISC</data>
+</node>
+<node id="bảng">
+  <data key="d0">MISC</data>
+</node>
+<node id="sự bie ቷn thiên">
+  <data key="d0">MISC</data>
+</node>
+<node id="Loại kẹo">
+  <data key="d0">MISC</data>
+</node>
+<node id="bı̀nh –">
+  <data key="d0">MISC</data>
+</node>
+<node id="F &#10;Thương">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑑𝑓஼">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑑𝑓஻">
+  <data key="d0">MISC</data>
+</node>
+<node id="B × C">
+  <data key="d0">MISC</data>
+</node>
+<node id="E">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑑𝑓஻  &#10;Tổng">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑆𝑆௧   &#10;Đaቹu">
+  <data key="d0">MISC</data>
+</node>
+<node id="df୆">
+  <data key="d0">MISC</data>
+</node>
+<node id="N୆ –">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nେ –">
+  <data key="d0">MISC</data>
+</node>
+<node id="df୆×">
+  <data key="d0">MISC</data>
+</node>
+<node id="N୆ – 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nେ – 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="df୆భ∩ େభ+ df୆మ∩">
+  <data key="d0">LOC</data>
+</node>
+<node id="୆య∩">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tieቷp">
+  <data key="d0">PER</data>
+</node>
+<node id="từng ngu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Với bı̀nh">
+  <data key="d0">MISC</data>
+</node>
+<node id="ଶ+6(8.22−8.44">
+  <data key="d0">LOC</data>
+</node>
+<node id="còn">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆𝑊஻భ∩ ஼భ=(4−5.33)ଶ+(5−5.33)ଶ+(7−5.33)ଶ= 4.67 &#10;𝑆𝑆𝑊஻మ∩ ஼భ=(4−5.33)ଶ+(5−5.33)ଶ+(7−5.33)ଶ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆௘=𝑆𝑆𝑊= 𝑆𝑆𝑊஻భ∩ ஼భ+...+ 𝑆𝑆𝑊஻భ∩ ஼మ+𝑆𝑆𝑊஻మ∩ ஼మ&#10;+𝑆𝑆𝑊஻య∩ ஼మ= 48.7 &#10;">
+  <data key="d0">MISC</data>
+</node>
+<node id="Toቻng bı̀nh">
+  <data key="d0">ORG</data>
+</node>
+<node id="từng chênh">
+  <data key="d0">MISC</data>
+</node>
+<node id="của giá">
+  <data key="d0">MISC</data>
+</node>
+<node id="bộ">
+  <data key="d0">PER</data>
+</node>
+<node id="Đeቻ tı̀m">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàng">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆௧">
+  <data key="d0">MISC</data>
+</node>
+<node id="của 𝑆𝑆஻">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆஻ × ஼">
+  <data key="d0">MISC</data>
+</node>
+<node id="vı̀ vậy 𝑆𝑆஻ × ஼">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑆𝑆஻ ×">
+  <data key="d0">MISC</data>
+</node>
+<node id="bı̀nh của từng">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑀𝑆஻=𝑆𝑆஻">
+  <data key="d0">ORG</data>
+</node>
+<node id="𝑑𝑓஻=0.19">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑑𝑓஻=199.67">
+  <data key="d0">MISC</data>
+</node>
+<node id="của F –">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bảng">
+  <data key="d0">MISC</data>
+</node>
+<node id="F &#10;Thương &#10;hiệu">
+  <data key="d0">PER</data>
+</node>
+<node id="của từng F –">
+  <data key="d0">MISC</data>
+</node>
+<node id="Kieቻm">
+  <data key="d0">LOC</data>
+</node>
+<node id="ı́t">
+  <data key="d0">PER</data>
+</node>
+<node id="thuộc">
+  <data key="d0">MISC</data>
+</node>
+<node id="Y. Hơn">
+  <data key="d0">PER</data>
+</node>
+<node id="Y. Biến X">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác kết">
+  <data key="d0">PER</data>
+</node>
+<node id="cao nhất">
+  <data key="d0">PER</data>
+</node>
+<node id="đồng &#10;nghĩa">
+  <data key="d0">PER</data>
+</node>
+<node id="tình xảy ra">
+  <data key="d0">PER</data>
+</node>
+<node id="cư xung">
+  <data key="d0">PER</data>
+</node>
+<node id="Dùng">
+  <data key="d0">PER</data>
+</node>
+<node id="Y được giải thích bởi">
+  <data key="d0">MISC</data>
+</node>
+<node id="X">
+  <data key="d0">MISC</data>
+</node>
+<node id="Y. Mặt">
+  <data key="d0">PER</data>
+</node>
+<node id="Hồi">
+  <data key="d0">PER</data>
+</node>
+<node id="Linear Regression">
+  <data key="d0">MISC</data>
+</node>
+<node id="Y lúc này bị">
+  <data key="d0">MISC</data>
+</node>
+<node id="thế">
+  <data key="d0">ORG</data>
+</node>
+<node id="people.ucsc.edu &#10;Để thực">
+  <data key="d0">MISC</data>
+</node>
+<node id="các mẫu độc &#10;lập">
+  <data key="d0">MISC</data>
+</node>
+<node id="được lớn">
+  <data key="d0">PER</data>
+</node>
+<node id="biến lên biến">
+  <data key="d0">PER</data>
+</node>
+<node id="đến mức">
+  <data key="d0">PER</data>
+</node>
+<node id="quanh điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="vi 1Km">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bibica G1 Haribo G2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chi-Square &#10;Kiểm">
+  <data key="d0">LOC</data>
+</node>
+<node id="H଴">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐸௜௝~𝜒ଶ(𝑟−1)∗(𝑐−1)௖">
+  <data key="d0">MISC</data>
+</node>
+<node id="௝">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑜௜௝">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝐶௝">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10; &#10;Hình">
+  <data key="d0">PER</data>
+</node>
+<node id="Python &#10;Dataset">
+  <data key="d0">PER</data>
+</node>
+<node id="người">
+  <data key="d0">MISC</data>
+</node>
+<node id="Education">
+  <data key="d0">LOC</data>
+</node>
+<node id="Mức độ hài lòng">
+  <data key="d0">PER</data>
+</node>
+<node id="độ hài lòng">
+  <data key="d0">PER</data>
+</node>
+<node id="không">
+  <data key="d0">MISC</data>
+</node>
+<node id="sử">
+  <data key="d0">MISC</data>
+</node>
+<node id="cài thêm">
+  <data key="d0">PER</data>
+</node>
+<node id="định Levene">
+  <data key="d0">PER</data>
+</node>
+<node id="dùng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Trong đó leveneTest">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàm dùng">
+  <data key="d0">MISC</data>
+</node>
+<node id="và Education">
+  <data key="d0">MISC</data>
+</node>
+<node id="Statisfaction">
+  <data key="d0">PER</data>
+</node>
+<node id="tùy">
+  <data key="d0">MISC</data>
+</node>
+<node id="tâm">
+  <data key="d0">MISC</data>
+</node>
+<node id="Giả">
+  <data key="d0">MISC</data>
+</node>
+<node id="bài">
+  <data key="d0">MISC</data>
+</node>
+<node id="H1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Neቷu chaቷp nhận H0">
+  <data key="d0">MISC</data>
+</node>
+<node id="Giả thuyeቷt">
+  <data key="d0">MISC</data>
+</node>
+<node id="Có">
+  <data key="d0">LOC</data>
+</node>
+<node id="Vı̀ Pr(&gt;F">
+  <data key="d0">MISC</data>
+</node>
+<node id="nên">
+  <data key="d0">MISC</data>
+</node>
+<node id="H0">
+  <data key="d0">MISC</data>
+</node>
+<node id="hành">
+  <data key="d0">ORG</data>
+</node>
+<node id="Ngoài">
+  <data key="d0">MISC</data>
+</node>
+<node id="Pr(&gt;F">
+  <data key="d0">MISC</data>
+</node>
+<node id="F Value và">
+  <data key="d0">MISC</data>
+</node>
+<node id="đây">
+  <data key="d0">MISC</data>
+</node>
+<node id="summary(rs">
+  <data key="d0">MISC</data>
+</node>
+<node id="TukeyHSD(rs">
+  <data key="d0">LOC</data>
+</node>
+<node id="Trong đó TukeyHSD">
+  <data key="d0">MISC</data>
+</node>
+<node id="Keቷt">
+  <data key="d0">PER</data>
+</node>
+<node id="của Some College và &#10;Graduate">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10;Import các">
+  <data key="d0">MISC</data>
+</node>
+<node id="Groupby Education">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10;Kieቻm">
+  <data key="d0">LOC</data>
+</node>
+<node id="Brand Preference">
+  <data key="d0">ORG</data>
+</node>
+<node id="Gender">
+  <data key="d0">MISC</data>
+</node>
+<node id="Gender – Giới">
+  <data key="d0">MISC</data>
+</node>
+<node id="Male">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nữ">
+  <data key="d0">LOC</data>
+</node>
+<node id="Brand Preference –">
+  <data key="d0">ORG</data>
+</node>
+<node id="Brand 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ngôn">
+  <data key="d0">LOC</data>
+</node>
+<node id="R &#10;Đọc">
+  <data key="d0">PER</data>
+</node>
+<node id="MASS &#10;Giả">
+  <data key="d0">MISC</data>
+</node>
+<node id="các loại &#10;nước">
+  <data key="d0">PER</data>
+</node>
+<node id="group2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Brand_Preference">
+  <data key="d0">LOC</data>
+</node>
+<node id="Chi-square">
+  <data key="d0">LOC</data>
+</node>
+<node id="Chi-square &#10;Vì">
+  <data key="d0">LOC</data>
+</node>
+<node id="H 0">
+  <data key="d0">MISC</data>
+</node>
+<node id="H 1">
+  <data key="d0">LOC</data>
+</node>
+<node id="X-squared  bằng &#10;">
+  <data key="d0">LOC</data>
+</node>
+<node id="Critical">
+  <data key="d0">MISC</data>
+</node>
+<node id="qchisq(p">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 2.3 Kết">
+  <data key="d0">PER</data>
+</node>
+<node id="Critical Value">
+  <data key="d0">LOC</data>
+</node>
+<node id="Python &#10;Để">
+  <data key="d0">PER</data>
+</node>
+<node id="Đọc">
+  <data key="d0">PER</data>
+</node>
+<node id="Chi-square dùng">
+  <data key="d0">LOC</data>
+</node>
+<node id="stats.chi2_contingency(chisqt">
+  <data key="d0">LOC</data>
+</node>
+<node id="In kết quả kiểm">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10;Tính Critical Chi-square">
+  <data key="d0">MISC</data>
+</node>
+<node id="Phân">
+  <data key="d0">MISC</data>
+</node>
+<node id="giữa ANOVA">
+  <data key="d0">MISC</data>
+</node>
+<node id="và ANOVA">
+  <data key="d0">MISC</data>
+</node>
+<node id="gı̀">
+  <data key="d0">ORG</data>
+</node>
+<node id="độ tự">
+  <data key="d0">MISC</data>
+</node>
+<node id="gia đình">
+  <data key="d0">PER</data>
+</node>
+<node id="gia đình &#10;trong">
+  <data key="d0">PER</data>
+</node>
+<node id="Địa">
+  <data key="d0">PER</data>
+</node>
+<node id="được chọn">
+  <data key="d0">PER</data>
+</node>
+<node id="các địa bàn">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 2.4 Một">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đieቹn vào">
+  <data key="d0">PER</data>
+</node>
+<node id="màu đậm">
+  <data key="d0">PER</data>
+</node>
+<node id="bàn dân">
+  <data key="d0">MISC</data>
+</node>
+<node id="không?  &#10;2">
+  <data key="d0">MISC</data>
+</node>
+<node id="kết">
+  <data key="d0">PER</data>
+</node>
+<node id="Trình Độ Học Vấn">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tình Trạng Hôn Nhân">
+  <data key="d0">MISC</data>
+</node>
+<node id="Số Năm &#10;Làm Việc">
+  <data key="d0">PER</data>
+</node>
+<node id="Điểm Hài Lòng">
+  <data key="d0">PER</data>
+</node>
+<node id="Cao đẳng">
+  <data key="d0">MISC</data>
+</node>
+<node id="– Some College">
+  <data key="d0">ORG</data>
+</node>
+<node id="– College">
+  <data key="d0">ORG</data>
+</node>
+<node id="Đã kết hôn- Married">
+  <data key="d0">MISC</data>
+</node>
+<node id="Góa phụ- &#10;Widowed">
+  <data key="d0">MISC</data>
+</node>
+<node id="Độc thân - Single">
+  <data key="d0">MISC</data>
+</node>
+<node id="Số Năm Làm Việc">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo thang điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="trong">
+  <data key="d0">LOC</data>
+</node>
+<node id="lòng cao nhất">
+  <data key="d0">PER</data>
+</node>
+<node id="Sr'. &#10;Liệu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Trình Độ Học &#10;Vấn">
+  <data key="d0">MISC</data>
+</node>
+<node id="gồm các">
+  <data key="d0">PER</data>
+</node>
+<node id="xây dựng">
+  <data key="d0">PER</data>
+</node>
+<node id="R square">
+  <data key="d0">LOC</data>
+</node>
+<node id="Biến Y">
+  <data key="d0">PER</data>
+</node>
+<node id="Y. Ví">
+  <data key="d0">PER</data>
+</node>
+<node id="Y &#10;tăng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Y giảm">
+  <data key="d0">MISC</data>
+</node>
+<node id="ra Mối">
+  <data key="d0">PER</data>
+</node>
+<node id="Y">
+  <data key="d0">PER</data>
+</node>
+<node id="x2">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑌=𝛽଴+𝛽ଵ𝑋ଵ+𝛽ଶ𝑋ଶ+⋯+𝛽௞𝑋௞">
+  <data key="d0">PER</data>
+</node>
+<node id="β଴">
+  <data key="d0">LOC</data>
+</node>
+<node id="Chương 3  &#10; &#10;Hình 3.1 Mã QR Data Chương">
+  <data key="d0">MISC</data>
+</node>
+<node id="Income">
+  <data key="d0">LOC</data>
+</node>
+<node id="theo dạng bảng">
+  <data key="d0">PER</data>
+</node>
+<node id="Thu">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 3.2 Biểu">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑌෠=𝛽଴+𝛽ଵ𝑋">
+  <data key="d0">LOC</data>
+</node>
+<node id="SSE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bằng">
+  <data key="d0">LOC</data>
+</node>
+<node id="xây dựng được">
+  <data key="d0">PER</data>
+</node>
+<node id="xác định các">
+  <data key="d0">PER</data>
+</node>
+<node id="𝛽଴">
+  <data key="d0">MISC</data>
+</node>
+<node id="௜ୀଵ= 0">
+  <data key="d0">MISC</data>
+</node>
+<node id="∂𝑆">
+  <data key="d0">MISC</data>
+</node>
+<node id="Rút">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa biến">
+  <data key="d0">PER</data>
+</node>
+<node id="thuộc về vế phải">
+  <data key="d0">PER</data>
+</node>
+<node id="௜ୀଵ=෍𝑋௜𝑌௜௡&#10;௜ୀଵ">
+  <data key="d0">PER</data>
+</node>
+<node id="௜ୀଵ &#10;Hệ">
+  <data key="d0">PER</data>
+</node>
+<node id="൜𝑎β଴+𝑏𝛽ଵ=">
+  <data key="d0">LOC</data>
+</node>
+<node id="f &#10;Đặt A">
+  <data key="d0">LOC</data>
+</node>
+<node id="β଴=𝑌ത−βଵ𝑋ത">
+  <data key="d0">MISC</data>
+</node>
+<node id="tính bội biểu">
+  <data key="d0">PER</data>
+</node>
+<node id="Dạng">
+  <data key="d0">LOC</data>
+</node>
+<node id="β଴+βଵ𝑋ଵ+βଶ𝑋ଶ+⋯+β">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tìm SSE Sau">
+  <data key="d0">MISC</data>
+</node>
+<node id="∂βଵ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="∂𝑆&#10;∂β௞= 0">
+  <data key="d0">MISC</data>
+</node>
+<node id="൮β଴">
+  <data key="d0">LOC</data>
+</node>
+<node id="β௞൲">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝑌">
+  <data key="d0">LOC</data>
+</node>
+<node id="Scatter Plot">
+  <data key="d0">PER</data>
+</node>
+<node id="Statisfaction Level">
+  <data key="d0">MISC</data>
+</node>
+<node id="X1(Repair Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="X2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Waiting Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝛽ଶ൱">
+  <data key="d0">LOC</data>
+</node>
+<node id="Yଵ&#10;Yଶ൱ &#10;Hệ">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑋்𝑋𝛽=𝑋்𝑌">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝛽=(𝑋்𝑋)ିଵ𝑋்𝑌">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑌=𝑓(𝑋,β)+">
+  <data key="d0">LOC</data>
+</node>
+<node id="Β làVector">
+  <data key="d0">MISC</data>
+</node>
+<node id="Thêm">
+  <data key="d0">LOC</data>
+</node>
+<node id="Z2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z1 &#10;Tìm">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Z2 &#10;Hình">
+  <data key="d0">MISC</data>
+</node>
+<node id="SS MS F Significance F  &#10;Regression  2 88.74281  44.3714 14.57937  0.008197  &#10;">
+  <data key="d0">MISC</data>
+</node>
+<node id="Residual 5">
+  <data key="d0">MISC</data>
+</node>
+<node id="Lower">
+  <data key="d0">LOC</data>
+</node>
+<node id="Intercept">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 3.7  Kết">
+  <data key="d0">MISC</data>
+</node>
+<node id="Vậy">
+  <data key="d0">PER</data>
+</node>
+<node id="X 1X22">
+  <data key="d0">MISC</data>
+</node>
+<node id="Gauss &#10;Newton &#10;Dữ liệu minh họa">
+  <data key="d0">PER</data>
+</node>
+<node id="Y &#10;Giả">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑌෠=">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hàm 𝑆𝑆𝐸">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑟௜(β)= 𝑟௜(β଴;βଵ)=">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑌௜−β଴𝑒ିஒభ௑೔ &#10;Hàm SSE">
+  <data key="d0">PER</data>
+</node>
+<node id="Jacobian &#10; &#10;Nên">
+  <data key="d0">PER</data>
+</node>
+<node id="பௌௌா">
+  <data key="d0">PER</data>
+</node>
+<node id="𝐽்.𝐽 &#10;Công">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝛽ଵ೚೗೏ቇ−𝐻ିଵ.𝐺ቆ𝛽଴೚೗೏">
+  <data key="d0">MISC</data>
+</node>
+<node id="Áp dụng vào bài toán">
+  <data key="d0">MISC</data>
+</node>
+<node id="∂βଵ= β଴𝑋௜𝑒ିஒభ௑೔">
+  <data key="d0">MISC</data>
+</node>
+<node id="Jocobian &#10; &#10;Khởi">
+  <data key="d0">PER</data>
+</node>
+<node id="β଴=">
+  <data key="d0">MISC</data>
+</node>
+<node id="Áp">
+  <data key="d0">PER</data>
+</node>
+<node id="Lặp">
+  <data key="d0">PER</data>
+</node>
+<node id="Dựa">
+  <data key="d0">PER</data>
+</node>
+<node id="Mean Absolute Error - MAE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Median Absolute Error –">
+  <data key="d0">MISC</data>
+</node>
+<node id="MedAE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Sum of Absolute Errors">
+  <data key="d0">MISC</data>
+</node>
+<node id="SAE">
+  <data key="d0">ORG</data>
+</node>
+<node id="lớn">
+  <data key="d0">ORG</data>
+</node>
+<node id="theo tỉ">
+  <data key="d0">PER</data>
+</node>
+<node id="Trung bình bình">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mean Squared Error – MSE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Median Squared Error">
+  <data key="d0">MISC</data>
+</node>
+<node id="MedSE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Sum of Squared Errors - SSE">
+  <data key="d0">MISC</data>
+</node>
+<node id="Root Mean Squared &#10;Error – RMSE">
+  <data key="d0">LOC</data>
+</node>
+<node id="MSLE">
+  <data key="d0">ORG</data>
+</node>
+<node id="MSLE=1">
+  <data key="d0">MISC</data>
+</node>
+<node id="bình bình">
+  <data key="d0">PER</data>
+</node>
+<node id="RMSLE">
+  <data key="d0">ORG</data>
+</node>
+<node id="Dựa vào R square &#10;Tiêu">
+  <data key="d0">MISC</data>
+</node>
+<node id="sai biệt">
+  <data key="d0">PER</data>
+</node>
+<node id="biến kết quả">
+  <data key="d0">PER</data>
+</node>
+<node id="RRSE - Relative Root Squared Error">
+  <data key="d0">ORG</data>
+</node>
+<node id="RRSE">
+  <data key="d0">ORG</data>
+</node>
+<node id="RAE - Relative Absolute Error">
+  <data key="d0">ORG</data>
+</node>
+<node id="Sai số tuyệt đối tương đối">
+  <data key="d0">MISC</data>
+</node>
+<node id="|𝑦௜−𝑦పෝ|௡">
+  <data key="d0">MISC</data>
+</node>
+<node id="R Square &#10;Bản">
+  <data key="d0">LOC</data>
+</node>
+<node id="cung cấp thông">
+  <data key="d0">PER</data>
+</node>
+<node id="được bao nhiêu phần">
+  <data key="d0">PER</data>
+</node>
+<node id="biến kết">
+  <data key="d0">PER</data>
+</node>
+<node id="R2">
+  <data key="d0">MISC</data>
+</node>
+<node id="sai(SSE">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑦௜−𝑦పෝ)ଶ">
+  <data key="d0">MISC</data>
+</node>
+<node id="R Square">
+  <data key="d0">LOC</data>
+</node>
+<node id="R²">
+  <data key="d0">MISC</data>
+</node>
+<node id="cần thiết vào mô &#10;hình">
+  <data key="d0">PER</data>
+</node>
+<node id="Adjusted 𝑅ଶ=">
+  <data key="d0">MISC</data>
+</node>
+<node id="Adjusted R²">
+  <data key="d0">MISC</data>
+</node>
+<node id="quan vào">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác hơn về">
+  <data key="d0">PER</data>
+</node>
+<node id="R &#10;Tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="Yêu">
+  <data key="d0">PER</data>
+</node>
+<node id="Giả sử">
+  <data key="d0">MISC</data>
+</node>
+<node id="tên">
+  <data key="d0">MISC</data>
+</node>
+<node id="Trong R">
+  <data key="d0">ORG</data>
+</node>
+<node id="hàm lm">
+  <data key="d0">MISC</data>
+</node>
+<node id="một mô hı̀nh">
+  <data key="d0">MISC</data>
+</node>
+<node id="hı̀nh">
+  <data key="d0">ORG</data>
+</node>
+<node id="Bảng kết quả">
+  <data key="d0">MISC</data>
+</node>
+<node id="Report &#10;Call">
+  <data key="d0">MISC</data>
+</node>
+<node id="lm(formula">
+  <data key="d0">MISC</data>
+</node>
+<node id="Estimate Std">
+  <data key="d0">MISC</data>
+</node>
+<node id="Signif">
+  <data key="d0">LOC</data>
+</node>
+<node id="Multiple R-">
+  <data key="d0">ORG</data>
+</node>
+<node id="Adjusted R-">
+  <data key="d0">LOC</data>
+</node>
+<node id="F-statistic">
+  <data key="d0">MISC</data>
+</node>
+<node id="Report: &#10;Intercept">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hệ">
+  <data key="d0">LOC</data>
+</node>
+<node id="này có ı́t">
+  <data key="d0">PER</data>
+</node>
+<node id="tăng">
+  <data key="d0">MISC</data>
+</node>
+<node id="hệ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Residuals">
+  <data key="d0">ORG</data>
+</node>
+<node id="Sai">
+  <data key="d0">PER</data>
+</node>
+<node id="là">
+  <data key="d0">MISC</data>
+</node>
+<node id="Residual">
+  <data key="d0">PER</data>
+</node>
+<node id="R-">
+  <data key="d0">LOC</data>
+</node>
+<node id="Đieቹu này">
+  <data key="d0">PER</data>
+</node>
+<node id="hệ giữa">
+  <data key="d0">MISC</data>
+</node>
+<node id="Moቷi">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐶𝑟𝑒𝑑𝑖𝑡𝑆𝑐𝑜𝑟𝑒">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10;Tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="LinearRegression  &#10;File">
+  <data key="d0">MISC</data>
+</node>
+<node id="Income'] &#10;">
+  <data key="d0">MISC</data>
+</node>
+<node id="CreditScore">
+  <data key="d0">MISC</data>
+</node>
+<node id="True">
+  <data key="d0">MISC</data>
+</node>
+<node id="LinearRegression">
+  <data key="d0">MISC</data>
+</node>
+<node id="plt.scatter(X">
+  <data key="d0">MISC</data>
+</node>
+<node id="plt.plot(X">
+  <data key="d0">ORG</data>
+</node>
+<node id="linewidth=2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 3.10 Kết">
+  <data key="d0">MISC</data>
+</node>
+<node id="Python &#10;Kết">
+  <data key="d0">PER</data>
+</node>
+<node id="R &#10;Tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="313092302_satisfaction_level.csv  &#10;Yêu">
+  <data key="d0">MISC</data>
+</node>
+<node id="R. Đoạn">
+  <data key="d0">PER</data>
+</node>
+<node id="Repair_Time + Waiting_Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="Satisfaction_Level">
+  <data key="d0">PER</data>
+</node>
+<node id="3Q      Max">
+  <data key="d0">MISC</data>
+</node>
+<node id="Waiting_Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="Repair_Time và Waiting_Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="Repair_Time">
+  <data key="d0">MISC</data>
+</node>
+<node id="ceteris paribus">
+  <data key="d0">PER</data>
+</node>
+<node id="Multiple R-squared">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑊𝑎𝑖𝑡𝑖𝑛𝑔 _𝑇𝑖𝑚𝑒 &#10; &#10;Hình 3.12  Biểu">
+  <data key="d0">MISC</data>
+</node>
+<node id="Independent_Variables">
+  <data key="d0">PER</data>
+</node>
+<node id="Python &#10;Hệ">
+  <data key="d0">PER</data>
+</node>
+<node id="R &#10;Hình">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hình 3.13 Kết">
+  <data key="d0">MISC</data>
+</node>
+<node id="TP.HCM">
+  <data key="d0">MISC</data>
+</node>
+<node id="cư">
+  <data key="d0">MISC</data>
+</node>
+<node id="thôn hoặc">
+  <data key="d0">PER</data>
+</node>
+<node id="các khu đô thị và muốn &#10;tránh rủi">
+  <data key="d0">MISC</data>
+</node>
+<node id="Google Maps">
+  <data key="d0">MISC</data>
+</node>
+<node id="Theo">
+  <data key="d0">PER</data>
+</node>
+<node id="Quận">
+  <data key="d0">LOC</data>
+</node>
+<node id="VND">
+  <data key="d0">MISC</data>
+</node>
+<node id="Quận 5">
+  <data key="d0">MISC</data>
+</node>
+<node id="các huyện">
+  <data key="d0">PER</data>
+</node>
+<node id="Nhà Bè">
+  <data key="d0">PER</data>
+</node>
+<node id="Bình Chánh">
+  <data key="d0">PER</data>
+</node>
+<node id="Hóc Môn">
+  <data key="d0">PER</data>
+</node>
+<node id="tính sau">
+  <data key="d0">PER</data>
+</node>
+<node id="Ngày">
+  <data key="d0">LOC</data>
+</node>
+<node id="xác định quận">
+  <data key="d0">PER</data>
+</node>
+<node id="bất động">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm này cho">
+  <data key="d0">PER</data>
+</node>
+<node id="Chiều">
+  <data key="d0">LOC</data>
+</node>
+<node id="nằm">
+  <data key="d0">ORG</data>
+</node>
+<node id="Đoạn">
+  <data key="d0">PER</data>
+</node>
+<node id="các &#10;thuộc">
+  <data key="d0">PER</data>
+</node>
+<node id="tính được cung cấp">
+  <data key="d0">PER</data>
+</node>
+<node id="đơn biến">
+  <data key="d0">PER</data>
+</node>
+<node id="Hãy">
+  <data key="d0">PER</data>
+</node>
+<node id="yêu cầu sau đây">
+  <data key="d0">PER</data>
+</node>
+<node id="Volume">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hàm">
+  <data key="d0">PER</data>
+</node>
+<node id="MÔ HÌNH HỒI QUY LOGISTICS &#10;Chương">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics">
+  <data key="d0">ORG</data>
+</node>
+<node id="Logistic">
+  <data key="d0">PER</data>
+</node>
+<node id="Logit">
+  <data key="d0">PER</data>
+</node>
+<node id="Logistics &#10;Hồi quy Logistics">
+  <data key="d0">MISC</data>
+</node>
+<node id="Binary Logistic Regression">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đúng/ Sai">
+  <data key="d0">MISC</data>
+</node>
+<node id="Có">
+  <data key="d0">LOC</data>
+</node>
+<node id="Multinomial Logistic Regression">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mức">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tuổi Cho">
+  <data key="d0">PER</data>
+</node>
+<node id="Thuộc">
+  <data key="d0">PER</data>
+</node>
+<node id="tuổi &#10;được xem là biến">
+  <data key="d0">PER</data>
+</node>
+<node id="Hàm Logistic Response &#10;Thay">
+  <data key="d0">PER</data>
+</node>
+<node id="hàm sau cho">
+  <data key="d0">PER</data>
+</node>
+<node id="Hàm Logistics Response">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hàm Logit &#10;Để">
+  <data key="d0">PER</data>
+</node>
+<node id="xem xét xác suất">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo khái niệm">
+  <data key="d0">PER</data>
+</node>
+<node id="được xác định bằng tỷ lệ">
+  <data key="d0">PER</data>
+</node>
+<node id="trên xác suất">
+  <data key="d0">PER</data>
+</node>
+<node id="Odds">
+  <data key="d0">PER</data>
+</node>
+<node id="ra được công">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑂𝑑𝑑𝑠">
+  <data key="d0">PER</data>
+</node>
+<node id="Thay">
+  <data key="d0">LOC</data>
+</node>
+<node id="theo X">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑒ఉబାఉభ௑భାఉమ௑మା⋯ା">
+  <data key="d0">MISC</data>
+</node>
+<node id="Cuối">
+  <data key="d0">PER</data>
+</node>
+<node id="đến một">
+  <data key="d0">PER</data>
+</node>
+<node id="Hàm log">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 4.2 Biểu">
+  <data key="d0">PER</data>
+</node>
+<node id="Maximum Likelihood &#10;Hàm">
+  <data key="d0">PER</data>
+</node>
+<node id="Likelihood Function">
+  <data key="d0">ORG</data>
+</node>
+<node id="ℒ dùng để đo &#10;lường mức">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑃(𝑋|𝜃)=𝑃൫(𝑥ଵ,𝑥ଶ,">
+  <data key="d0">MISC</data>
+</node>
+<node id="௜ୀଵ &#10;Trong">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑃(𝑋|𝜃">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑋">
+  <data key="d0">ORG</data>
+</node>
+<node id="𝑥௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ví dụ về Likelihood">
+  <data key="d0">MISC</data>
+</node>
+<node id="biết xác suất">
+  <data key="d0">PER</data>
+</node>
+<node id="tung được">
+  <data key="d0">PER</data>
+</node>
+<node id="Cho">
+  <data key="d0">LOC</data>
+</node>
+<node id="7(số">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐿(𝜃|𝑋)=𝜃௞(1−𝜃)௡ି௞(4−7">
+  <data key="d0">LOC</data>
+</node>
+<node id="MLE">
+  <data key="d0">ORG</data>
+</node>
+<node id="𝜃෠ெ௅ா=𝑎𝑟𝑔𝑚𝑎𝑥 ఏ𝐿(𝜃|𝑋">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑳(𝜽|𝑿">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑋. &#10;Hàm">
+  <data key="d0">PER</data>
+</node>
+<node id="௜ୀଵ.(1−𝑝௜)ଵି௞(4−9">
+  <data key="d0">MISC</data>
+</node>
+<node id="rất khó">
+  <data key="d0">PER</data>
+</node>
+<node id="yêu cầu các">
+  <data key="d0">PER</data>
+</node>
+<node id="hóa tiên tiến">
+  <data key="d0">PER</data>
+</node>
+<node id="khó khăn">
+  <data key="d0">PER</data>
+</node>
+<node id="được kết">
+  <data key="d0">PER</data>
+</node>
+<node id="sấp">
+  <data key="d0">ORG</data>
+</node>
+<node id="được viết">
+  <data key="d0">PER</data>
+</node>
+<node id="Bernoulli">
+  <data key="d0">PER</data>
+</node>
+<node id="𝐿(𝜃|𝑋)=ෑ𝜃௫೔(1−𝜃)ଵି௫೔௡">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑙(𝜃|𝑋)=෍[𝑥௜𝑙𝑛(𝜃)+(1−">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hàm Log-likelihood">
+  <data key="d0">PER</data>
+</node>
+<node id="cho hàm log-likelihood">
+  <data key="d0">MISC</data>
+</node>
+<node id="tính đạo hàm">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑑𝜃=෍൬𝑥௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝜃−1−𝑥௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="Giải">
+  <data key="d0">PER</data>
+</node>
+<node id="൬𝑥௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="Nhân">
+  <data key="d0">PER</data>
+</node>
+<node id="𝜃(1−𝜃">
+  <data key="d0">LOC</data>
+</node>
+<node id="෍𝑥௜(1−𝜃)=">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đạo">
+  <data key="d0">PER</data>
+</node>
+<node id="𝜃=∑௫೔೙&#10;೔సభ">
+  <data key="d0">MISC</data>
+</node>
+<node id="đạo hàm bậc">
+  <data key="d0">PER</data>
+</node>
+<node id="hàm log-likelihood">
+  <data key="d0">ORG</data>
+</node>
+<node id="𝜃ଶ+1−𝑥௜">
+  <data key="d0">MISC</data>
+</node>
+<node id="ngửa trên">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑥௜=">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝜃෠ெ௅ா=7">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics &#10;Định">
+  <data key="d0">MISC</data>
+</node>
+<node id="khả năng">
+  <data key="d0">PER</data>
+</node>
+<node id="chính xác các">
+  <data key="d0">PER</data>
+</node>
+<node id="𝛽)௠">
+  <data key="d0">MISC</data>
+</node>
+<node id="Newton">
+  <data key="d0">PER</data>
+</node>
+<node id="⎣⎢⎢⎢⎡𝜕𝑙">
+  <data key="d0">LOC</data>
+</node>
+<node id="⎣⎢⎢⎢⎢⎡෍(𝑦௜௡">
+  <data key="d0">MISC</data>
+</node>
+<node id="௜ୀଵ−ℎఉ(𝑥௜">
+  <data key="d0">ORG</data>
+</node>
+<node id="⎦⎥⎥⎥⎥⎤&#10; &#10;Và 𝐻௟(஻">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hessian">
+  <data key="d0">PER</data>
+</node>
+<node id="⎣⎢⎢⎢⎡𝜕ଶ𝑙">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝜕𝛽ଶ𝜕𝛽ଵ𝜕ଶ𝑙&#10;𝜕𝛽ଶଶ⎦⎥⎥⎥⎤">
+  <data key="d0">MISC</data>
+</node>
+<node id="⎣⎢⎢⎢⎢⎡෍ℎఉ(𝑥௜)(1−௡">
+  <data key="d0">MISC</data>
+</node>
+<node id="⎦⎥⎥⎥⎥⎤">
+  <data key="d0">ORG</data>
+</node>
+<node id="Logistics &#10;Mỗi khi xây dựng">
+  <data key="d0">MISC</data>
+</node>
+<node id="ra thành">
+  <data key="d0">PER</data>
+</node>
+<node id="Đôi khi">
+  <data key="d0">PER</data>
+</node>
+<node id="trước đó">
+  <data key="d0">PER</data>
+</node>
+<node id="mặt">
+  <data key="d0">ORG</data>
+</node>
+<node id="hữu ích nhất">
+  <data key="d0">PER</data>
+</node>
+<node id="Accuracy">
+  <data key="d0">LOC</data>
+</node>
+<node id="Recall">
+  <data key="d0">LOC</data>
+</node>
+<node id="Precision">
+  <data key="d0">LOC</data>
+</node>
+<node id="Đường">
+  <data key="d0">LOC</data>
+</node>
+<node id="Curve">
+  <data key="d0">LOC</data>
+</node>
+<node id="ROC Curve">
+  <data key="d0">LOC</data>
+</node>
+<node id="AUC">
+  <data key="d0">ORG</data>
+</node>
+<node id="Lift">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics &#10; &#10;Hình 4.3 Driver Dataset">
+  <data key="d0">MISC</data>
+</node>
+<node id="Logistics &#10;Sử dụng bộ">
+  <data key="d0">MISC</data>
+</node>
+<node id="R và Python">
+  <data key="d0">MISC</data>
+</node>
+<node id="đến kế hoạch">
+  <data key="d0">PER</data>
+</node>
+<node id="M' &#10;(Nam">
+  <data key="d0">MISC</data>
+</node>
+<node id="GPA">
+  <data key="d0">MISC</data>
+</node>
+<node id="yes">
+  <data key="d0">ORG</data>
+</node>
+<node id="có">
+  <data key="d0">ORG</data>
+</node>
+<node id="R &#10;Yêu">
+  <data key="d0">MISC</data>
+</node>
+<node id="yes&quot;,1,0">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình 4.5 Data">
+  <data key="d0">MISC</data>
+</node>
+<node id="Trường">
+  <data key="d0">LOC</data>
+</node>
+<node id="Gender + Married + &#10;Undergraduate">
+  <data key="d0">MISC</data>
+</node>
+<node id="isAttend">
+  <data key="d0">MISC</data>
+</node>
+<node id="Gender + Married + Undergraduate">
+  <data key="d0">MISC</data>
+</node>
+<node id="Call">
+  <data key="d0">MISC</data>
+</node>
+<node id="Deviance Residuals">
+  <data key="d0">PER</data>
+</node>
+<node id="Undergraduate">
+  <data key="d0">MISC</data>
+</node>
+<node id="Null deviance">
+  <data key="d0">MISC</data>
+</node>
+<node id="Fisher Scoring">
+  <data key="d0">PER</data>
+</node>
+<node id="Report &#10;Mô">
+  <data key="d0">MISC</data>
+</node>
+<node id="được xây dựng">
+  <data key="d0">PER</data>
+</node>
+<node id="Married">
+  <data key="d0">MISC</data>
+</node>
+<node id="Std. Error">
+  <data key="d0">MISC</data>
+</node>
+<node id="Std">
+  <data key="d0">LOC</data>
+</node>
+<node id="đến biến">
+  <data key="d0">PER</data>
+</node>
+<node id="AIC">
+  <data key="d0">ORG</data>
+</node>
+<node id="Deviance &#10;Residuals">
+  <data key="d0">PER</data>
+</node>
+<node id="Tóm">
+  <data key="d0">PER</data>
+</node>
+<node id="Undergraduate.GPA">
+  <data key="d0">MISC</data>
+</node>
+<node id="odds(Y=1">
+  <data key="d0">MISC</data>
+</node>
+<node id="">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đặt Odd">
+  <data key="d0">PER</data>
+</node>
+<node id="undergraduateGPA">
+  <data key="d0">LOC</data>
+</node>
+<node id="Tỉ">
+  <data key="d0">MISC</data>
+</node>
+<node id="">
+  <data key="d0">LOC</data>
+</node>
+<node id="Python &#10;Yêu">
+  <data key="d0">PER</data>
+</node>
+<node id="LogisticRegression">
+  <data key="d0">MISC</data>
+</node>
+<node id="Giả">
+  <data key="d0">PER</data>
+</node>
+<node id="LogisticRegression &#10;Chuyển">
+  <data key="d0">MISC</data>
+</node>
+<node id="Undergraduate GPA">
+  <data key="d0">MISC</data>
+</node>
+<node id="nhiêu khi điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="Odds(Y=1">
+  <data key="d0">PER</data>
+</node>
+<node id="yêu cầu sau">
+  <data key="d0">PER</data>
+</node>
+<node id="hưởng cao nhất">
+  <data key="d0">PER</data>
+</node>
+<node id="Chương 5">
+  <data key="d0">MISC</data>
+</node>
+<node id="CHUỖI THỜI GIAN &#10;Chương">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA">
+  <data key="d0">MISC</data>
+</node>
+<node id="MA">
+  <data key="d0">LOC</data>
+</node>
+<node id="ARIMAX">
+  <data key="d0">MISC</data>
+</node>
+<node id="các biến ngoại">
+  <data key="d0">PER</data>
+</node>
+<node id="LSTM">
+  <data key="d0">ORG</data>
+</node>
+<node id="các khái niệm">
+  <data key="d0">PER</data>
+</node>
+<node id="áp dụng vào các">
+  <data key="d0">PER</data>
+</node>
+<node id="biệt là các">
+  <data key="d0">PER</data>
+</node>
+<node id="theo dõi biến">
+  <data key="d0">PER</data>
+</node>
+<node id="theo thời gian">
+  <data key="d0">PER</data>
+</node>
+<node id="minh trong">
+  <data key="d0">PER</data>
+</node>
+<node id="tính chất">
+  <data key="d0">PER</data>
+</node>
+<node id="bản sau">
+  <data key="d0">PER</data>
+</node>
+<node id="gian phải">
+  <data key="d0">PER</data>
+</node>
+<node id="Cycle):  Chuỗi">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo một">
+  <data key="d0">PER</data>
+</node>
+<node id="Seasonality):  Chuỗi">
+  <data key="d0">ORG</data>
+</node>
+<node id="gian cố định">
+  <data key="d0">PER</data>
+</node>
+<node id="Giáng">
+  <data key="d0">LOC</data>
+</node>
+<node id="theo thời gian liên tục">
+  <data key="d0">PER</data>
+</node>
+<node id="được theo">
+  <data key="d0">PER</data>
+</node>
+<node id="theo thời &#10;gian">
+  <data key="d0">PER</data>
+</node>
+<node id="Lưu">
+  <data key="d0">LOC</data>
+</node>
+<node id="được ghi">
+  <data key="d0">PER</data>
+</node>
+<node id="gian giữa chúng">
+  <data key="d0">PER</data>
+</node>
+<node id="theo từng doanh mục">
+  <data key="d0">PER</data>
+</node>
+<node id="theo từng doanh">
+  <data key="d0">PER</data>
+</node>
+<node id="theo từng &#10;doanh mục">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm các">
+  <data key="d0">PER</data>
+</node>
+<node id="Khái">
+  <data key="d0">PER</data>
+</node>
+<node id="được trình">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑏଴">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑏ଵ×𝛾௧ିଵ">
+  <data key="d0">MISC</data>
+</node>
+<node id="AR(1">
+  <data key="d0">MISC</data>
+</node>
+<node id="trễ">
+  <data key="d0">ORG</data>
+</node>
+<node id="đưa vào">
+  <data key="d0">PER</data>
+</node>
+<node id="AR">
+  <data key="d0">ORG</data>
+</node>
+<node id="trễ bậc">
+  <data key="d0">ORG</data>
+</node>
+<node id="thuộc vào sai">
+  <data key="d0">PER</data>
+</node>
+<node id="gian được">
+  <data key="d0">PER</data>
+</node>
+<node id="MA(𝑞">
+  <data key="d0">LOC</data>
+</node>
+<node id="gian trước">
+  <data key="d0">PER</data>
+</node>
+<node id="Nhưng">
+  <data key="d0">PER</data>
+</node>
+<node id="khó có">
+  <data key="d0">PER</data>
+</node>
+<node id="hình thành">
+  <data key="d0">PER</data>
+</node>
+<node id="được thực">
+  <data key="d0">PER</data>
+</node>
+<node id="trước khi">
+  <data key="d0">PER</data>
+</node>
+<node id="ARIMA &#10;Vậy ARIMA">
+  <data key="d0">MISC</data>
+</node>
+<node id="kê kết">
+  <data key="d0">MISC</data>
+</node>
+<node id="– &#10;AR(𝑝">
+  <data key="d0">MISC</data>
+</node>
+<node id="gian trong">
+  <data key="d0">PER</data>
+</node>
+<node id="thuộc vào một">
+  <data key="d0">PER</data>
+</node>
+<node id="ARIMA(𝑝,𝑑,𝑞">
+  <data key="d0">LOC</data>
+</node>
+<node id="𝜇+𝜙ଵ×∆ௗ𝛾௧ିଵ+𝜙ଶ×∆ௗ𝛾௧ିଶ+">
+  <data key="d0">MISC</data>
+</node>
+<node id="∆𝛾௧ି௣+𝜃ଵ×𝑒௧ିଵ+𝜃ଶ×𝑒௧ିଶ+">
+  <data key="d0">LOC</data>
+</node>
+<node id="Phần">
+  <data key="d0">PER</data>
+</node>
+<node id="Hằng">
+  <data key="d0">MISC</data>
+</node>
+<node id="gian &#10;trong">
+  <data key="d0">PER</data>
+</node>
+<node id="Box-Jenkins">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bước 1: Xác">
+  <data key="d0">MISC</data>
+</node>
+<node id="gian thành">
+  <data key="d0">PER</data>
+</node>
+<node id="Augmented Dickey-Fuller">
+  <data key="d0">PER</data>
+</node>
+<node id="ADF">
+  <data key="d0">ORG</data>
+</node>
+<node id="xác định mức">
+  <data key="d0">PER</data>
+</node>
+<node id="được tính dừng">
+  <data key="d0">PER</data>
+</node>
+<node id="Bước 2: Xác">
+  <data key="d0">MISC</data>
+</node>
+<node id="AR(p">
+  <data key="d0">PER</data>
+</node>
+<node id="MA(q">
+  <data key="d0">LOC</data>
+</node>
+<node id="ACF">
+  <data key="d0">ORG</data>
+</node>
+<node id="Autocorrelation Function">
+  <data key="d0">ORG</data>
+</node>
+<node id="PACF">
+  <data key="d0">ORG</data>
+</node>
+<node id="Partial &#10;Autocorrelation Function">
+  <data key="d0">MISC</data>
+</node>
+<node id="trễ cần lần lượt cho">
+  <data key="d0">ORG</data>
+</node>
+<node id="thị tương">
+  <data key="d0">PER</data>
+</node>
+<node id="Bước 3: Xây dựng mô hình hồi">
+  <data key="d0">MISC</data>
+</node>
+<node id="được bộ &#10;tham số">
+  <data key="d0">PER</data>
+</node>
+<node id="Bước 4: Đánh">
+  <data key="d0">MISC</data>
+</node>
+<node id="Exogenous Variables – ARIMAX">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA(p">
+  <data key="d0">PER</data>
+</node>
+<node id="Exogenous Variables">
+  <data key="d0">PER</data>
+</node>
+<node id="bởi các các biến">
+  <data key="d0">PER</data>
+</node>
+<node id="được trong">
+  <data key="d0">PER</data>
+</node>
+<node id="được đề">
+  <data key="d0">PER</data>
+</node>
+<node id="ngày">
+  <data key="d0">LOC</data>
+</node>
+<node id="đóng">
+  <data key="d0">PER</data>
+</node>
+<node id="Exogenous">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑋௧">
+  <data key="d0">MISC</data>
+</node>
+<node id="X ୲">
+  <data key="d0">MISC</data>
+</node>
+<node id="P">
+  <data key="d0">LOC</data>
+</node>
+<node id="Q">
+  <data key="d0">LOC</data>
+</node>
+<node id="SARIMA P">
+  <data key="d0">PER</data>
+</node>
+<node id="Seasonal Autoregressive Order">
+  <data key="d0">ORG</data>
+</node>
+<node id="Seasonal Difference Order">
+  <data key="d0">ORG</data>
+</node>
+<node id="Seasonal Moving Average Order">
+  <data key="d0">MISC</data>
+</node>
+<node id="Seasonal Periodicity): Chu">
+  <data key="d0">MISC</data>
+</node>
+<node id="gian giữa các lần">
+  <data key="d0">PER</data>
+</node>
+<node id="𝑌௧=𝑐+ϕଵ𝑌௧ିଵ+⋯+ϕ ௣𝑌௧ି௣−θଵ𝑒௧ିଵ−⋯−θ">
+  <data key="d0">PER</data>
+</node>
+<node id="ொ𝑒௧ି௠ொ">
+  <data key="d0">MISC</data>
+</node>
+<node id="– LSTM &#10;Kiến trúc">
+  <data key="d0">MISC</data>
+</node>
+<node id="sâu được">
+  <data key="d0">PER</data>
+</node>
+<node id="được đưa vào mô hình">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 5.1  Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="cell state">
+  <data key="d0">LOC</data>
+</node>
+<node id="H ı̀nh 5-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝐶௧">
+  <data key="d0">LOC</data>
+</node>
+<node id="tích">
+  <data key="d0">LOC</data>
+</node>
+<node id="Thực hành">
+  <data key="d0">MISC</data>
+</node>
+<node id="Amazon">
+  <data key="d0">LOC</data>
+</node>
+<node id="Chuo">
+  <data key="d0">PER</data>
+</node>
+<node id="Date –">
+  <data key="d0">MISC</data>
+</node>
+<node id="và Close – Chứa">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mục">
+  <data key="d0">PER</data>
+</node>
+<node id="Trường">
+  <data key="d0">MISC</data>
+</node>
+<node id="hành cài">
+  <data key="d0">ORG</data>
+</node>
+<node id="hành &#10;Import">
+  <data key="d0">ORG</data>
+</node>
+<node id="Python dùng">
+  <data key="d0">PER</data>
+</node>
+<node id="dàng và">
+  <data key="d0">LOC</data>
+</node>
+<node id="Thieቷt lập">
+  <data key="d0">PER</data>
+</node>
+<node id="Close' làm biến">
+  <data key="d0">MISC</data>
+</node>
+<node id="Khai báo">
+  <data key="d0">MISC</data>
+</node>
+<node id="False">
+  <data key="d0">MISC</data>
+</node>
+<node id="True  &#10;Keቷt">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA(2,1,2)(0,0,0)[0">
+  <data key="d0">LOC</data>
+</node>
+<node id="Time=4.10">
+  <data key="d0">MISC</data>
+</node>
+<node id="AIC=5097.669">
+  <data key="d0">MISC</data>
+</node>
+<node id="Time=0.05">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA(1,1,0)(0,0,0)[0">
+  <data key="d0">LOC</data>
+</node>
+<node id="Time=0.10">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA(0,1,1)(0,0,0)[0">
+  <data key="d0">LOC</data>
+</node>
+<node id="Time=0.19">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA(1,1,1)(0,0,0)[0">
+  <data key="d0">LOC</data>
+</node>
+<node id="Time=0.59">
+  <data key="d0">MISC</data>
+</node>
+<node id="SARIMAX">
+  <data key="d0">MISC</data>
+</node>
+<node id="Log Likelihood">
+  <data key="d0">PER</data>
+</node>
+<node id="Time">
+  <data key="d0">ORG</data>
+</node>
+<node id="BIC">
+  <data key="d0">ORG</data>
+</node>
+<node id="HQIC">
+  <data key="d0">ORG</data>
+</node>
+<node id="Covariance Type">
+  <data key="d0">MISC</data>
+</node>
+<node id="Ljung-Box">
+  <data key="d0">MISC</data>
+</node>
+<node id="L1">
+  <data key="d0">LOC</data>
+</node>
+<node id="Jarque-Bera">
+  <data key="d0">PER</data>
+</node>
+<node id="JB">
+  <data key="d0">LOC</data>
+</node>
+<node id="Heteroskedasticity">
+  <data key="d0">LOC</data>
+</node>
+<node id="H">
+  <data key="d0">LOC</data>
+</node>
+<node id="Warnings">
+  <data key="d0">PER</data>
+</node>
+<node id="Covariance">
+  <data key="d0">PER</data>
+</node>
+<node id="tả">
+  <data key="d0">MISC</data>
+</node>
+<node id="Akaike Information Criterion">
+  <data key="d0">MISC</data>
+</node>
+<node id="hı̀nh ARIMA">
+  <data key="d0">MISC</data>
+</node>
+<node id="bậc của">
+  <data key="d0">MISC</data>
+</node>
+<node id="Integration">
+  <data key="d0">MISC</data>
+</node>
+<node id="kỳ">
+  <data key="d0">ORG</data>
+</node>
+<node id="một độ">
+  <data key="d0">PER</data>
+</node>
+<node id="kê. Trong">
+  <data key="d0">ORG</data>
+</node>
+<node id="nghiệm">
+  <data key="d0">MISC</data>
+</node>
+<node id="Log của hàm Likelihood): Giá">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàm &#10;Likelihood">
+  <data key="d0">PER</data>
+</node>
+<node id="Bayesian Information Criterion">
+  <data key="d0">ORG</data>
+</node>
+<node id="Covariance Type: Loại">
+  <data key="d0">MISC</data>
+</node>
+<node id="sigma2: Giá">
+  <data key="d0">MISC</data>
+</node>
+<node id="sigma2 là">
+  <data key="d0">MISC</data>
+</node>
+<node id="còn sót">
+  <data key="d0">MISC</data>
+</node>
+<node id="mô hı̀nh">
+  <data key="d0">LOC</data>
+</node>
+<node id="không phải là">
+  <data key="d0">MISC</data>
+</node>
+<node id="động không">
+  <data key="d0">MISC</data>
+</node>
+<node id="Cảnh">
+  <data key="d0">ORG</data>
+</node>
+<node id="Tóm">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA với">
+  <data key="d0">MISC</data>
+</node>
+<node id="hàm">
+  <data key="d0">ORG</data>
+</node>
+<node id="vừa tı̀m">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARMA">
+  <data key="d0">ORG</data>
+</node>
+<node id="AutoRegressive">
+  <data key="d0">MISC</data>
+</node>
+<node id="Moving &#10;Average">
+  <data key="d0">LOC</data>
+</node>
+<node id="Thành">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm gì">
+  <data key="d0">PER</data>
+</node>
+<node id="làm mịn">
+  <data key="d0">MISC</data>
+</node>
+<node id="residuals">
+  <data key="d0">ORG</data>
+</node>
+<node id="xử lý nhiễu">
+  <data key="d0">PER</data>
+</node>
+<node id="tinh chỉnh">
+  <data key="d0">PER</data>
+</node>
+<node id="Chọn 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="ARIMA &#10;b. Chọn 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chọn 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chương 6">
+  <data key="d0">MISC</data>
+</node>
+<node id="máy">
+  <data key="d0">PER</data>
+</node>
+<node id="Support Vector Machine">
+  <data key="d0">MISC</data>
+</node>
+<node id="SVM">
+  <data key="d0">ORG</data>
+</node>
+<node id="Anomaly &#10;Detection">
+  <data key="d0">PER</data>
+</node>
+<node id="các ứng">
+  <data key="d0">ORG</data>
+</node>
+<node id="xử lý dữ liệu">
+  <data key="d0">LOC</data>
+</node>
+<node id="gian mới">
+  <data key="d0">PER</data>
+</node>
+<node id="gian vectơ">
+  <data key="d0">PER</data>
+</node>
+<node id="các bộ">
+  <data key="d0">ORG</data>
+</node>
+<node id="các lớp dữ liệu">
+  <data key="d0">PER</data>
+</node>
+<node id="các &#10;đặc trưng">
+  <data key="d0">MISC</data>
+</node>
+<node id="các từ">
+  <data key="d0">ORG</data>
+</node>
+<node id="khả năng xử">
+  <data key="d0">PER</data>
+</node>
+<node id="hóa siêu">
+  <data key="d0">PER</data>
+</node>
+<node id="y1">
+  <data key="d0">ORG</data>
+</node>
+<node id="y2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mỗi xi là một vector trong">
+  <data key="d0">MISC</data>
+</node>
+<node id="xi1">
+  <data key="d0">MISC</data>
+</node>
+<node id="xin)T.">
+  <data key="d0">MISC</data>
+</node>
+<node id="biệt hai lớp">
+  <data key="d0">PER</data>
+</node>
+<node id="tối thiểu">
+  <data key="d0">PER</data>
+</node>
+<node id="max margin">
+  <data key="d0">PER</data>
+</node>
+<node id="max-margin hyperplane">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 6.1">
+  <data key="d0">MISC</data>
+</node>
+<node id="ràng">
+  <data key="d0">LOC</data>
+</node>
+<node id="Bieቻu">
+  <data key="d0">MISC</data>
+</node>
+<node id="x-,-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Xác">
+  <data key="d0">MISC</data>
+</node>
+<node id="cận">
+  <data key="d0">PER</data>
+</node>
+<node id="với H 0">
+  <data key="d0">MISC</data>
+</node>
+<node id="x- và">
+  <data key="d0">PER</data>
+</node>
+<node id="này và">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑦௜=">
+  <data key="d0">MISC</data>
+</node>
+<node id="Mức Lề &#10;Margin">
+  <data key="d0">PER</data>
+</node>
+<node id="điểm x">
+  <data key="d0">PER</data>
+</node>
+<node id="|⟨𝑤∙𝑥௜⟩+𝑏|">
+  <data key="d0">MISC</data>
+</node>
+<node id="𝑑ା=|⟨𝑤∙𝑥ା⟩+𝑏|">
+  <data key="d0">MISC</data>
+</node>
+<node id="‖𝑤‖">
+  <data key="d0">PER</data>
+</node>
+<node id="Mạng RNN &#10;Mạng">
+  <data key="d0">LOC</data>
+</node>
+<node id="– Recurrent Neural Network">
+  <data key="d0">MISC</data>
+</node>
+<node id="ron nhân tạo được">
+  <data key="d0">PER</data>
+</node>
+<node id="CNN">
+  <data key="d0">ORG</data>
+</node>
+<node id="ron khác">
+  <data key="d0">PER</data>
+</node>
+<node id="ron hồi">
+  <data key="d0">PER</data>
+</node>
+<node id="thuộc vào các">
+  <data key="d0">PER</data>
+</node>
+<node id="giữa các lớp">
+  <data key="d0">PER</data>
+</node>
+<node id="RNN &#10;Một">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình 6.2 Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="w1">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hı̀nh">
+  <data key="d0">MISC</data>
+</node>
+<node id="và &#10;một">
+  <data key="d0">PER</data>
+</node>
+<node id="Hình 6.3 Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="Output=">
+  <data key="d0">MISC</data>
+</node>
+<node id="cần được trích &#10;xuất">
+  <data key="d0">PER</data>
+</node>
+<node id="Wo là trọng số cho">
+  <data key="d0">MISC</data>
+</node>
+<node id="các đơn">
+  <data key="d0">MISC</data>
+</node>
+<node id="– 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo các bước sau &#10;Đơn">
+  <data key="d0">PER</data>
+</node>
+<node id="Bước 1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bước 2">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bước">
+  <data key="d0">LOC</data>
+</node>
+<node id="Wo*h t-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bước 3">
+  <data key="d0">MISC</data>
+</node>
+<node id="t-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Activation(h)=tanh(0,12">
+  <data key="d0">LOC</data>
+</node>
+<node id="Hình 6.4 Minh">
+  <data key="d0">MISC</data>
+</node>
+<node id="được tính">
+  <data key="d0">PER</data>
+</node>
+<node id="ANN">
+  <data key="d0">ORG</data>
+</node>
+<node id="Hình 6.5 Minh">
+  <data key="d0">ORG</data>
+</node>
+<node id="hàm mất">
+  <data key="d0">MISC</data>
+</node>
+<node id="Anomoly Detection &#10;6.1.3.1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Anomaly">
+  <data key="d0">LOC</data>
+</node>
+<node id="Outlier): Một">
+  <data key="d0">PER</data>
+</node>
+<node id="ngờ">
+  <data key="d0">ORG</data>
+</node>
+<node id="khi được">
+  <data key="d0">PER</data>
+</node>
+<node id="GME">
+  <data key="d0">MISC</data>
+</node>
+<node id="khiến">
+  <data key="d0">PER</data>
+</node>
+<node id="Isolation Forest &#10;Thuật">
+  <data key="d0">PER</data>
+</node>
+<node id="Tree-base">
+  <data key="d0">MISC</data>
+</node>
+<node id="điểm dữ liệu">
+  <data key="d0">PER</data>
+</node>
+<node id="Isolation Forest &#10;Xây">
+  <data key="d0">MISC</data>
+</node>
+<node id="bình cao cho các điểm">
+  <data key="d0">PER</data>
+</node>
+<node id="biệt hơn">
+  <data key="d0">PER</data>
+</node>
+<node id="cần ít bước">
+  <data key="d0">LOC</data>
+</node>
+<node id="đoạn văn">
+  <data key="d0">PER</data>
+</node>
+<node id="đến đối tượng đó">
+  <data key="d0">PER</data>
+</node>
+<node id="Twitter">
+  <data key="d0">MISC</data>
+</node>
+<node id="trong nội">
+  <data key="d0">ORG</data>
+</node>
+<node id="Tweepy">
+  <data key="d0">LOC</data>
+</node>
+<node id="các tweets">
+  <data key="d0">ORG</data>
+</node>
+<node id="được xử &#10;lý và làm sạch">
+  <data key="d0">PER</data>
+</node>
+<node id="xử lý sẽ dễ dàng">
+  <data key="d0">PER</data>
+</node>
+<node id="thuận">
+  <data key="d0">LOC</data>
+</node>
+<node id="VADER">
+  <data key="d0">ORG</data>
+</node>
+<node id="Sentiment Analysis">
+  <data key="d0">MISC</data>
+</node>
+<node id="các bước">
+  <data key="d0">PER</data>
+</node>
+<node id="khoảng trống &#10;duy nhất">
+  <data key="d0">PER</data>
+</node>
+<node id="Giảm">
+  <data key="d0">LOC</data>
+</node>
+<node id="bởi người dùng">
+  <data key="d0">PER</data>
+</node>
+<node id="VADER - một">
+  <data key="d0">MISC</data>
+</node>
+<node id="được &#10;các thông">
+  <data key="d0">PER</data>
+</node>
+<node id="Compound">
+  <data key="d0">LOC</data>
+</node>
+<node id="Polarity">
+  <data key="d0">LOC</data>
+</node>
+<node id="Subjectivity">
+  <data key="d0">ORG</data>
+</node>
+<node id="hóa trong khoảng">
+  <data key="d0">PER</data>
+</node>
+<node id="Tính Positive">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tính Neural">
+  <data key="d0">MISC</data>
+</node>
+<node id="Tính Negative">
+  <data key="d0">MISC</data>
+</node>
+<node id="các câu &#10;trong">
+  <data key="d0">PER</data>
+</node>
+<node id="cảm xúc">
+  <data key="d0">PER</data>
+</node>
+<node id="Date">
+  <data key="d0">PER</data>
+</node>
+<node id="theo trong">
+  <data key="d0">PER</data>
+</node>
+<node id="trình xử lý">
+  <data key="d0">PER</data>
+</node>
+<node id="trình xử">
+  <data key="d0">PER</data>
+</node>
+<node id="các bình &#10;luận">
+  <data key="d0">MISC</data>
+</node>
+<node id="Hình 6.9 Minh">
+  <data key="d0">ORG</data>
+</node>
+<node id="Yahoo! Finance">
+  <data key="d0">ORG</data>
+</node>
+<node id="gian &#10;mong muốn">
+  <data key="d0">PER</data>
+</node>
+<node id="BTC">
+  <data key="d0">LOC</data>
+</node>
+<node id="TSLA">
+  <data key="d0">MISC</data>
+</node>
+<node id="Historical Dataset">
+  <data key="d0">ORG</data>
+</node>
+<node id="Yahoo!Finance3">
+  <data key="d0">ORG</data>
+</node>
+<node id="Trang">
+  <data key="d0">LOC</data>
+</node>
+<node id="Bitcoin  &#10;Historical Data ">
+  <data key="d0">MISC</data>
+</node>
+<node id="Apply">
+  <data key="d0">PER</data>
+</node>
+<node id="Download">
+  <data key="d0">MISC</data>
+</node>
+<node id="Bitcoin &#10;Chia">
+  <data key="d0">ORG</data>
+</node>
+<node id="test theo tỉ lệ">
+  <data key="d0">PER</data>
+</node>
+<node id="tính ra &#10;sai">
+  <data key="d0">PER</data>
+</node>
+<node id="Closing Price">
+  <data key="d0">LOC</data>
+</node>
+<node id="Tập">
+  <data key="d0">MISC</data>
+</node>
+<node id="tả bài">
+  <data key="d0">MISC</data>
+</node>
+<node id="Dùng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Close">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chuyeቻn">
+  <data key="d0">PER</data>
+</node>
+<node id="pd.to_datetime(data['Date">
+  <data key="d0">MISC</data>
+</node>
+<node id="Đưa Date">
+  <data key="d0">MISC</data>
+</node>
+<node id="làm index">
+  <data key="d0">MISC</data>
+</node>
+<node id="gian dự báo">
+  <data key="d0">PER</data>
+</node>
+<node id="Amazon &#10;Import">
+  <data key="d0">LOC</data>
+</node>
+<node id="các ngày">
+  <data key="d0">ORG</data>
+</node>
+<node id="SVR">
+  <data key="d0">ORG</data>
+</node>
+<node id="‘Days">
+  <data key="d0">MISC</data>
+</node>
+<node id="‘Close’ và dùng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chia">
+  <data key="d0">LOC</data>
+</node>
+<node id="X_train">
+  <data key="d0">LOC</data>
+</node>
+<node id="X_test">
+  <data key="d0">MISC</data>
+</node>
+<node id="test_size=0.2">
+  <data key="d0">PER</data>
+</node>
+<node id="Chú">
+  <data key="d0">PER</data>
+</node>
+<node id="search4 &#10;Khởi tạo đối">
+  <data key="d0">MISC</data>
+</node>
+<node id="SVR(kernel='linear">
+  <data key="d0">LOC</data>
+</node>
+<node id="SVR5 &#10;Kernel">
+  <data key="d0">MISC</data>
+</node>
+<node id="‘sigmoid">
+  <data key="d0">MISC</data>
+</node>
+<node id="Huấn">
+  <data key="d0">PER</data>
+</node>
+<node id="svr.fit(X_train">
+  <data key="d0">PER</data>
+</node>
+<node id="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html">
+  <data key="d0">PER</data>
+</node>
+<node id="RMSE">
+  <data key="d0">LOC</data>
+</node>
+<node id="print(f'Root Mean Squared Error">
+  <data key="d0">MISC</data>
+</node>
+<node id="MinMax Scaler">
+  <data key="d0">PER</data>
+</node>
+<node id="MinMaxScaler(feature_range=(0">
+  <data key="d0">MISC</data>
+</node>
+<node id="Chọn">
+  <data key="d0">LOC</data>
+</node>
+<node id="Close_scaler">
+  <data key="d0">MISC</data>
+</node>
+<node id="đưa vào &#10;vào hàm">
+  <data key="d0">PER</data>
+</node>
+<node id="time_step=1">
+  <data key="d0">LOC</data>
+</node>
+<node id="dataY">
+  <data key="d0">MISC</data>
+</node>
+<node id="Y=100 &#10;        dataX.append(a">
+  <data key="d0">MISC</data>
+</node>
+<node id="Reshape">
+  <data key="d0">PER</data>
+</node>
+<node id="t+100">
+  <data key="d0">PER</data>
+</node>
+<node id="Reshape X_train">
+  <data key="d0">MISC</data>
+</node>
+<node id="X_train.shape[1">
+  <data key="d0">MISC</data>
+</node>
+<node id="X_test.shape[1">
+  <data key="d0">MISC</data>
+</node>
+<node id="Sequential">
+  <data key="d0">MISC</data>
+</node>
+<node id="model.add(SimpleRNN(50">
+  <data key="d0">MISC</data>
+</node>
+<node id="model.add(Dense(1">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo vào">
+  <data key="d0">PER</data>
+</node>
+<node id="model.fit(X_train">
+  <data key="d0">MISC</data>
+</node>
+<node id="verbose=1">
+  <data key="d0">ORG</data>
+</node>
+<node id="stb_stock_price">
+  <data key="d0">LOC</data>
+</node>
+<node id="Import">
+  <data key="d0">LOC</data>
+</node>
+<node id="Price">
+  <data key="d0">PER</data>
+</node>
+<node id="đưa về">
+  <data key="d0">PER</data>
+</node>
+<node id="Scaler MinMax">
+  <data key="d0">MISC</data>
+</node>
+<node id="Scaler">
+  <data key="d0">PER</data>
+</node>
+<node id="StandardScaler">
+  <data key="d0">MISC</data>
+</node>
+<node id="scaler.fit_transform(df['Price'].values.reshape(-1">
+  <data key="d0">MISC</data>
+</node>
+<node id="bình thường">
+  <data key="d0">PER</data>
+</node>
+<node id="df['anomaly">
+  <data key="d0">PER</data>
+</node>
+<node id="IsolationForest">
+  <data key="d0">MISC</data>
+</node>
+<node id="MinMaxScaler">
+  <data key="d0">MISC</data>
+</node>
+<node id="tùy chı̉">
+  <data key="d0">LOC</data>
+</node>
+<node id="hưởng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Khái">
+  <data key="d0">LOC</data>
+</node>
+<node id="đặc đieቻm">
+  <data key="d0">LOC</data>
+</node>
+<node id="GRU">
+  <data key="d0">ORG</data>
+</node>
+<node id="và tài">
+  <data key="d0">MISC</data>
+</node>
+<node id="LSTM kép">
+  <data key="d0">MISC</data>
+</node>
+<node id="xử">
+  <data key="d0">MISC</data>
+</node>
+<node id="mùa và">
+  <data key="d0">MISC</data>
+</node>
+<node id="ƯƵng">
+  <data key="d0">MISC</data>
+</node>
+<node id="hı̀nh SVR">
+  <data key="d0">MISC</data>
+</node>
+<node id="Close b">
+  <data key="d0">MISC</data>
+</node>
+<node id="hı̀nh RNN">
+  <data key="d0">ORG</data>
+</node>
+<node id="Volume &#10;4">
+  <data key="d0">MISC</data>
+</node>
+<node id="theo baኁng">
+  <data key="d0">PER</data>
+</node>
+<node id="Isolation Forest &#10;Hướng">
+  <data key="d0">ORG</data>
+</node>
+<node id="của ngày n">
+  <data key="d0">MISC</data>
+</node>
+<node id="DẪN SỬ DỤNG SÁCH &#10;Hạng">
+  <data key="d0">MISC</data>
+</node>
+<node id="Những bài tái">
+  <data key="d0">MISC</data>
+</node>
+<node id="đến lý thuyết">
+  <data key="d0">PER</data>
+</node>
+<node id="R &#10;Phân">
+  <data key="d0">MISC</data>
+</node>
+<node id="tái">
+  <data key="d0">PER</data>
+</node>
+<node id="internet">
+  <data key="d0">MISC</data>
+</node>
+<node id="khó hơn &#10;cần">
+  <data key="d0">PER</data>
+</node>
+<node id="QR &#10;Mỗi">
+  <data key="d0">MISC</data>
+</node>
+<node id="QR  &#10; &#10;Bước 2: Mã">
+  <data key="d0">MISC</data>
+</node>
+<node id="R Source Python">
+  <data key="d0">MISC</data>
+</node>
+<node id="TÀI">
+  <data key="d0">MISC</data>
+</node>
+<node id="James R. Evans">
+  <data key="d0">PER</data>
+</node>
+<node id="Business Analytics">
+  <data key="d0">MISC</data>
+</node>
+<node id="Methods">
+  <data key="d0">MISC</data>
+</node>
+<node id="Models">
+  <data key="d0">ORG</data>
+</node>
+<node id="Decisions">
+  <data key="d0">MISC</data>
+</node>
+<node id="Prentice Hall">
+  <data key="d0">PER</data>
+</node>
+<node id="Peter Bruce">
+  <data key="d0">PER</data>
+</node>
+<node id="Andrew Bruce">
+  <data key="d0">PER</data>
+</node>
+<node id="Peter Gedeck">
+  <data key="d0">PER</data>
+</node>
+<node id="Practical Statistics for Data &#10;Scientists">
+  <data key="d0">MISC</data>
+</node>
+<node id="Essential Concepts Using R">
+  <data key="d0">MISC</data>
+</node>
+<node id="O'Reilly Media">
+  <data key="d0">ORG</data>
+</node>
+<node id="Nielsen">
+  <data key="d0">PER</data>
+</node>
+<node id="Time Series Analysis: Prediction with Statistics and &#10;Machine Learning">
+  <data key="d0">MISC</data>
+</node>
+<node id="Joseph M. Hilbe">
+  <data key="d0">PER</data>
+</node>
+<node id="Practical Guide to Logistic Regression">
+  <data key="d0">MISC</data>
+</node>
+<node id="CRC Press">
+  <data key="d0">ORG</data>
+</node>
+<node id="Taylor &amp; &#10;Francis Group">
+  <data key="d0">ORG</data>
+</node>
+<node id="liệu"/>
+<node id="khái"/>
+<node id="bài"/>
+<node id="viên"/>
+<node id="code"/>
+<node id="đọc"/>
+<node id="hơn"/>
+<node id="tác"/>
+<node id="tính"/>
+<node id="phân"/>
+<node id="hình"/>
+<node id="quan"/>
+<node id="hành"/>
+<node id="ngữ"/>
+<node id="TÍCH"/>
+<node id="LIỆU"/>
+<node id="lượng"/>
+<node id="bình"/>
+<node id="nhà"/>
+<node id="logistics"/>
+<node id=".............................................................................................................."/>
+<node id="thị"/>
+<node id="bổ"/>
+<node id="trên"/>
+<node id="minh"/>
+<node id="quy"/>
+<node id="wx"/>
+<node id="và"/>
+<node id="số"/>
+<node id="chỉnh"/>
+<node id="Forest"/>
+<node id="tham"/>
+<node id="khảo"/>
+<node id="yếu"/>
+<node id="thống"/>
+<node id="cao"/>
+<node id="nhân"/>
+<node id="cụm"/>
+<node id="cách"/>
+<node id="tế"/>
+<node id="phần"/>
+<node id="trải"/>
+<node id="góp"/>
+<node id="cạnh"/>
+<node id="phương"/>
+<node id="Từ"/>
+<node id="mở"/>
+<node id="nhau"/>
+<node id="nhu"/>
+<node id="giúp"/>
+<node id="tranh"/>
+<node id="loại"/>
+<node id="trị"/>
+<node id="Ví"/>
+<node id="tháng"/>
+<node id="dạng"/>
+<node id="nhóm"/>
+<node id="hàng"/>
+<node id="độ"/>
+<node id="trình"/>
+<node id="đảm"/>
+<node id="quả"/>
+<node id="lý"/>
+<node id="thiếu"/>
+<node id="trống"/>
+<node id="thể"/>
+<node id="giá"/>
+<node id="đồng"/>
+<node id="bản"/>
+<node id="toán"/>
+<node id="thuật"/>
+<node id="hợp"/>
+<node id="trưng"/>
+<node id="lệ"/>
+<node id="-"/>
+<node id="từ"/>
+<node id="mỗi"/>
+<node id="trang"/>
+<node id="chiến"/>
+<node id="này"/>
+<node id="tách"/>
+<node id="tiếp"/>
+<node id="phụ"/>
+<node id="nước"/>
+<node id="gas"/>
+<node id="đề"/>
+<node id="chung"/>
+<node id="tới"/>
+<node id="nhằm"/>
+<node id="dựa"/>
+<node id="xuất"/>
+<node id="văn"/>
+<node id="tuyến"/>
+<node id="lo"/>
+<node id="gian"/>
+<node id="khứ"/>
+<node id="rủi"/>
+<node id="hiểu"/>
+<node id="ty"/>
+<node id="Variation"/>
+<node id="thước"/>
+<node id="nhiều"/>
+<node id="mẫu"/>
+<node id="rạc"/>
+<node id="không"/>
+<node id="thì"/>
+<node id="hai"/>
+<node id="giữa"/>
+<node id="ଶቓቁ+𝑥ቀቔ௡"/>
+<node id="Với"/>
+<node id="đã"/>
+<node id="dần"/>
+<node id="Số"/>
+<node id="ba"/>
+<node id="chính"/>
+<node id="đây"/>
+<node id="vị"/>
+<node id="௜(௡ାଵ"/>
+<node id="mức"/>
+<node id="nhất"/>
+<node id="sai"/>
+<node id="chúng"/>
+<node id="chiều"/>
+<node id="hệ"/>
+<node id="mạnh"/>
+<node id="𝑥̅"/>
+<node id="𝑥෤"/>
+<node id="đuôi"/>
+<node id="hoàn"/>
+<node id="xứng"/>
+<node id="chuẩn"/>
+<node id="Độ"/>
+<node id="cứu"/>
+<node id="nhọn"/>
+<node id="cột"/>
+<node id="lên"/>
+<node id="biểu"/>
+<node id="biệt"/>
+<node id="đối"/>
+<node id="tục"/>
+<node id="tứ"/>
+<node id="vị"/>
+<node id="tả"/>
+<node id="như"/>
+<node id="Nhận"/>
+<node id="nó"/>
+<node id="triển"/>
+<node id="web"/>
+<node id="học"/>
+<node id="phiên"/>
+<node id="diện"/>
+<node id="GDP"/>
+<node id="Thư"/>
+<node id="thieቷt"/>
+<node id="pandas"/>
+<node id="="/>
+<node id="thư"/>
+<node id="loại"/>
+<node id="đo"/>
+<node id="5"/>
+<node id="liệu"/>
+<node id="bè"/>
+<node id="ቻng"/>
+<node id="đơn"/>
+<node id="giá"/>
+<node id="câu"/>
+<node id="qua"/>
+<node id="tập"/>
+<node id="Tham"/>
+<node id="௜"/>
+<node id="tìm"/>
+<node id="khả"/>
+<node id="liên"/>
+<node id="dụ"/>
+<node id="mà"/>
+<node id="mình"/>
+<node id="dùng"/>
+<node id="hiện"/>
+<node id="một"/>
+<node id="nhỏ"/>
+<node id="cậy"/>
+<node id="𝑥̅±𝑧ఈ/ଶ×ට௙(ଵି௙"/>
+<node id="μ"/>
+<node id="vnđ"/>
+<node id="chối"/>
+<node id="Đặt"/>
+<node id="level"/>
+<node id="lầm"/>
+<node id="suất"/>
+<node id="thuyết"/>
+<node id="sau"/>
+<node id="với"/>
+<node id="trước"/>
+<node id="𝐻ଵ"/>
+<node id="𝐻଴"/>
+<node id="௡భ+ௌమమ"/>
+<node id="௡భ+ଵ"/>
+<node id="𝑆௡ೞିଵଶ~𝐹𝑖𝑠ℎ𝑒𝑟(𝑛ଵ−1,𝑛௦−1"/>
+<node id="thực"/>
+<node id="cần"/>
+<node id="sao"/>
+<node id="bắc"/>
+<node id="cặp"/>
+<node id="kiểm"/>
+<node id="variance"/>
+<node id="tiềm"/>
+<node id="covariance"/>
+<node id="đó"/>
+<node id="tổng"/>
+<node id="𝜇௞"/>
+<node id="siêu"/>
+<node id="hóa"/>
+<node id="thi"/>
+<node id="sát"/>
+<node id="lệch"/>
+<node id="𝐷௜"/>
+<node id="âm"/>
+<node id="tượng"/>
+<node id="thang"/>
+<node id="bác"/>
+<node id="bỏ"/>
+<node id="luận"/>
+<node id="kiện"/>
+<node id="dụng"/>
+<node id="nay"/>
+<node id="điểm"/>
+<node id="phẩm"/>
+<node id="gói"/>
+<node id="biện"/>
+<node id="i"/>
+<node id="của"/>
+<node id="alpha"/>
+<node id="thương"/>
+<node id="nhaቷt"/>
+<node id="variation"/>
+<node id="𝑆𝑆𝑊="/>
+<node id="+"/>
+<node id="tự"/>
+<node id="squares"/>
+<node id="thấy"/>
+<node id="sánh"/>
+<node id="bằng"/>
+<node id="distribution"/>
+<node id="nghĩa"/>
+<node id="𝐹௖௥௜௧"/>
+<node id="gấu"/>
+<node id="xác"/>
+<node id="𝑑𝑓ா௥௥௢௥"/>
+<node id="các"/>
+<node id="𝑑𝑓ௌௌௐ"/>
+<node id="doanh"/>
+<node id="thu"/>
+<node id="𝑞"/>
+<node id="଼ቁ="/>
+<node id="tại"/>
+<node id="trường"/>
+<node id="tố"/>
+<node id="kẹo"/>
+<node id="khác"/>
+<node id="Liệu"/>
+<node id="tại"/>
+<node id="III"/>
+<node id="hiệu"/>
+<node id="nhóm"/>
+<node id="tự"/>
+<node id="freedom"/>
+<node id="஼"/>
+<node id="nguoቹn"/>
+<node id="𝑆𝑆஻"/>
+<node id="஼=𝑆𝑆௧−(𝑆𝑆஻+𝑆𝑆஼+𝑆𝑆௘"/>
+<node id="test"/>
+<node id="𝐹௖_௦௧௔௧&gt;𝐹௖_௖௥௜௧"/>
+<node id="đó"/>
+<node id="mặt"/>
+<node id="nhiên"/>
+<node id="bias"/>
+<node id="thiên"/>
+<node id="dummy"/>
+<node id="rằng"/>
+<node id="em"/>
+<node id="thêm"/>
+<node id="pháp"/>
+<node id="gı́a"/>
+<node id="được"/>
+<node id="Int"/>
+<node id="oቷ"/>
+<node id="ch"/>
+<node id="TukeyHSD"/>
+<node id="k"/>
+<node id="thaቷy"/>
+<node id="thích"/>
+<node id="chisq.test(tb"/>
+<node id="đieቹu"/>
+<node id="mục"/>
+<node id="Làm"/>
+<node id="đậm"/>
+<node id="degree"/>
+<node id="động"/>
+<node id="trở"/>
+<node id="'"/>
+<node id="b"/>
+<node id="nếu"/>
+<node id="3.2"/>
+<node id="hồi"/>
+<node id="quát"/>
+<node id="bộ"/>
+<node id="bảng"/>
+<node id="nhập"/>
+<node id="xây"/>
+<node id="f"/>
+<node id="β଴𝑒ିஒభ௑(3−9"/>
+<node id="பஒೕ௡"/>
+<node id="𝛽ଵ೚೗೏ቇ"/>
+<node id="Khởi"/>
+<node id="Expenses"/>
+<node id="dung"/>
+<node id="quá"/>
+<node id="thành"/>
+<node id="điển"/>
+<node id="trạng"/>
+<node id="công"/>
+<node id="tuye"/>
+<node id="value"/>
+<node id="*"/>
+<node id="Adjusted"/>
+<node id="1"/>
+<node id="dụng"/>
+<node id="thêm"/>
+<node id="nhập"/>
+<node id="mức"/>
+<node id="năng"/>
+<node id="toቷt"/>
+<node id="viện"/>
+<node id="plt.legend"/>
+<node id="data"/>
+<node id="tóm"/>
+<node id="tăng"/>
+<node id="Nó"/>
+<node id="lòng"/>
+<node id="chờ"/>
+<node id="nhưng"/>
+<node id="phải"/>
+<node id="thay"/>
+<node id="ví"/>
+<node id="năm"/>
+<node id="phố"/>
+<node id="người"/>
+<node id="khu"/>
+<node id="m2"/>
+<node id="Bè"/>
+<node id="thấp"/>
+<node id="kế"/>
+<node id="15"/>
+<node id="yêu"/>
+<node id="car_price"/>
+<node id="2"/>
+<node id="để"/>
+<node id="việc"/>
+<node id="chỉ"/>
+<node id="thuộc"/>
+<node id="gọi"/>
+<node id="khoảng"/>
+<node id="vì"/>
+<node id="xạ"/>
+<node id="ngửa"/>
+<node id="nhiêu"/>
+<node id="𝜃"/>
+<node id="0.0282"/>
+<node id="trường"/>
+<node id="Estimation"/>
+<node id="đạt"/>
+<node id="tiến"/>
+<node id="tạp"/>
+<node id="tối"/>
+<node id="likehood"/>
+<node id="𝑋="/>
+<node id="tung"/>
+<node id="௜ୀଵ(4−13"/>
+<node id="likelihood"/>
+<node id="hạng"/>
+<node id="௜ୀଵ(4−19"/>
+<node id="𝑑𝜃ଶ="/>
+<node id="ghi"/>
+<node id="Và"/>
+<node id="4.3"/>
+<node id="tra"/>
+<node id="mới"/>
+<node id="đoán"/>
+<node id="as.numeric(factor(df$&lt;column"/>
+<node id="parameter"/>
+<node id="iterations"/>
+<node id="tình"/>
+<node id="tương"/>
+<node id="5.1458"/>
+<node id="hưởng"/>
+<node id="deviance"/>
+<node id="kể"/>
+<node id="nghiệm"/>
+<node id="Number"/>
+<node id="4.585"/>
+<node id="Ta"/>
+<node id=""/>
+<node id="e"/>
+<node id="diễn"/>
+<node id="lần"/>
+<node id="file"/>
+<node id="school'].replace({'yes"/>
+<node id="chất"/>
+<node id="gì"/>
+<node id="ảnh"/>
+<node id="p"/>
+<node id="loan_status"/>
+<node id="CHUỖI"/>
+<node id="Average"/>
+<node id="5.1"/>
+<node id="chuỗi"/>
+<node id="hướng"/>
+<node id="đến"/>
+<node id="𝑡"/>
+<node id="dừng"/>
+<node id="ARIMA(0"/>
+<node id="thừa"/>
+<node id="d"/>
+<node id="lớp"/>
+<node id="s"/>
+<node id="vụ"/>
+<node id="cổng"/>
+<node id="bào"/>
+<node id="giữ"/>
+<node id="trọng"/>
+<node id="đi"/>
+<node id="vào"/>
+<node id="sigmoid"/>
+<node id="chı́nh"/>
+<node id="ứng"/>
+<node id="import"/>
+<node id="plt"/>
+<node id="ı́ch"/>
+<node id="báo"/>
+<node id="print(arima_model.summary"/>
+<node id="Sample"/>
+<node id="P&gt;|z|"/>
+<node id="ti"/>
+<node id="gradients"/>
+<node id="Prob(Q"/>
+<node id="K"/>
+<node id="ARIMA(1,1,1"/>
+<node id="định"/>
+<node id="bội"/>
+<node id="ngoài"/>
+<node id="22"/>
+<node id="23"/>
+<node id="tránh"/>
+<node id="luyện"/>
+<node id="4"/>
+<node id="củng"/>
+<node id="ban"/>
+<node id="thường"/>
+<node id="tốt"/>
+<node id="r"/>
+<node id="tồn"/>
+<node id="phẳng"/>
+<node id="ኃng"/>
+<node id="‖𝑤‖=ඥ⟨𝑤∙𝑤⟩=ට𝑤ଵଶ+𝑤ଶଶ+⋯+𝑤௡ଶ"/>
+<node id="bên"/>
+<node id="trận"/>
+<node id="lượt"/>
+<node id="với"/>
+<node id="tin"/>
+<node id="Quá"/>
+<node id="Một"/>
+<node id="6.1.3.2"/>
+<node id="base"/>
+<node id="cây"/>
+<node id="ngưỡng"/>
+<node id="tweet"/>
+<node id="-1"/>
+<node id="phủ"/>
+<node id="câu"/>
+<node id="cùng"/>
+<node id="viện"/>
+<node id="cột"/>
+<node id="khoán"/>
+<node id="random_state"/>
+<node id="xem"/>
+<node id="rmse"/>
+<node id="báo"/>
+<node id="scaler"/>
+<node id="create_dataset"/>
+<node id="train_size"/>
+<node id="np.array(close_scaler[train_size:]).reshape(-1,1"/>
+<node id="X=0,1,2,3"/>
+<node id="range(len(dataset"/>
+<node id="đích"/>
+<node id="Mô"/>
+<node id="numpy"/>
+<node id="kiểu"/>
+<node id="df['Price"/>
+<node id="Tại"/>
+<node id="MinMax"/>
+<node id="."/>
+<node id="model.fit(data"/>
+<node id="thời"/>
+<node id="chuo"/>
+<node id="chu"/>
+<node id="lý"/>
+<node id="ngày"/>
+<node id="lại"/>
+<node id="kiến"/>
+<node id="dàng"/>
+<node id="Hướng"/>
+<node id="KHẢO"/>
+<edge source="kê" target="độ">
+  <data key="d1">lệch</data>
+</edge>
+<edge source="kê" target="tả">
+  <data key="d1">đại</data>
+</edge>
+<edge source="kê" target="thống">
+  <data key="d1">có</data>
+</edge>
+<edge source="R" target="Python">
+  <data key="d1">trên</data>
+</edge>
+<edge source="R" target="logistics">
+  <data key="d1">trên</data>
+</edge>
+<edge source="R" target="Hình">
+  <data key="d1">trên</data>
+</edge>
+<edge source="R" target="sử">
+  <data key="d1">dataframe</data>
+</edge>
+<edge source="Python" target="quan">
+  <data key="d1">trên</data>
+</edge>
+<edge source="Python" target="tích">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="Python" target="ANOVA">
+  <data key="d1">trên</data>
+</edge>
+<edge source="Python" target="biến">
+  <data key="d1">trên</data>
+</edge>
+<edge source="Python" target="phần">
+  <data key="d1">với</data>
+</edge>
+<edge source="Python" target="hành">
+  <data key="d1">thực</data>
+</edge>
+<edge source="Python" target="từ">
+  <data key="d1">trùng</data>
+</edge>
+<edge source="Python" target="cột">
+  <data key="d1">thieቷt</data>
+</edge>
+<edge source="QR" target="Hướng">
+  <data key="d1">sử</data>
+</edge>
+<edge source="các" target="số">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="các" target="tham">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="nhóm">
+  <data key="d1">giữa</data>
+</edge>
+<edge source="các" target="Variation">
+  <data key="d1">tứ</data>
+</edge>
+<edge source="các" target="vị">
+  <data key="d1">tứ</data>
+</edge>
+<edge source="các" target="phân">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="𝑥෤">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="Minh">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="đuôi">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="cột">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="lệ">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="lượng">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="trước">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="sau">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="H0">
+  <data key="d1">trên</data>
+</edge>
+<edge source="các" target="chisq.test(tb">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="động">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="liệu">
+  <data key="d1">lại</data>
+</edge>
+<edge source="các" target="việc">
+  <data key="d1">hàm</data>
+</edge>
+<edge source="các" target="ngửa">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="nghĩa">
+  <data key="d1">giá</data>
+</edge>
+<edge source="các" target="ghi">
+  <data key="d1">giả</data>
+</edge>
+<edge source="các" target="chuỗi">
+  <data key="d1">trên</data>
+</edge>
+<edge source="các" target="thống">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="các" target="thêm">
+  <data key="d1">ngoại</data>
+</edge>
+<edge source="các" target="trên">
+  <data key="d1">tweets</data>
+</edge>
+<edge source="các" target="theo">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Các" target="trị">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Các" target="trình">
+  <data key="d1">phép</data>
+</edge>
+<edge source="Các" target="lệ">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Các" target="liệu">
+  <data key="d1">số</data>
+</edge>
+<edge source="Các" target="tra">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="Các" target="Nam">
+  <data key="d1">có</data>
+</edge>
+<edge source="Các" target="N">
+  <data key="d1">có</data>
+</edge>
+<edge source="Các" target="và">
+  <data key="d1">có</data>
+</edge>
+<edge source="Thực" target="hành">
+  <data key="d1">thực</data>
+</edge>
+<edge source="Kiểm" target="chối">
+  <data key="d1">thể</data>
+</edge>
+<edge source="Tukey" target="𝑑𝑓ா௥௥௢௥">
+  <data key="d1">do</data>
+</edge>
+<edge source="ANOVA" target="tích">
+  <data key="d1">trên</data>
+</edge>
+<edge source="ANOVA" target="dummy">
+  <data key="d1">giả</data>
+</edge>
+<edge source="ANOVA" target="biến">
+  <data key="d1">cho</data>
+</edge>
+<edge source="Phương" target="hàng">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="Phương" target="covariance">
+  <data key="d1">trên</data>
+</edge>
+<edge source="Đánh" target="thêm">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Đánh" target="hình">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Đánh" target="RMSE">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Likelihood" target="phương">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="SARIMA" target="ti">
+  <data key="d1">m</data>
+</edge>
+<edge source="RNN" target="Biểu">
+  <data key="d1">thực</data>
+</edge>
+<edge source="Minh" target="BTC">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="Hình" target="thị">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="Hình" target="quy">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="Hình" target="Forest">
+  <data key="d1">toán</data>
+</edge>
+<edge source="Hình" target="đây">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="Hình" target="௜(௡ାଵ">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="Hình" target="kết">
+  <data key="d1">có</data>
+</edge>
+<edge source="Hình" target="tích">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="Hình" target="Không">
+  <data key="d1">có</data>
+</edge>
+<edge source="Hình" target="biến">
+  <data key="d1">thực</data>
+</edge>
+<edge source="Hình" target="nhiên">
+  <data key="d1">toán</data>
+</edge>
+<edge source="Boxplot" target="skewness(df$GDP">
+  <data key="d1">biểu</data>
+</edge>
+<edge source="Dataset" target="biến">
+  <data key="d1">với</data>
+</edge>
+<edge source="Dataset" target="KHẢO">
+  <data key="d1">THAM</data>
+</edge>
+<edge source="Bảng" target="Call">
+  <data key="d1">isAttend</data>
+</edge>
+<edge source="Trong" target="tiếp">
+  <data key="d1">thì</data>
+</edge>
+<edge source="Thương" target="nhóm">
+  <data key="d1">hiệu</data>
+</edge>
+<edge source="được" target="dụng">
+  <data key="d1">thì</data>
+</edge>
+<edge source="được" target="sánh">
+  <data key="d1">với</data>
+</edge>
+<edge source="được" target="bài">
+  <data key="d1">toán</data>
+</edge>
+<edge source="theo" target="chuỗi">
+  <data key="d1">toán</data>
+</edge>
+<edge source="theo" target="và">
+  <data key="d1">thực</data>
+</edge>
+<edge source="theo" target="tính">
+  <data key="d1">toán</data>
+</edge>
+<edge source="theo" target="một">
+  <data key="d1">giá</data>
+</edge>
+<edge source="hoặc" target="độ">
+  <data key="d1">có</data>
+</edge>
+<edge source="hoặc" target="hiểu">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="hoặc" target="bộ">
+  <data key="d1">ngoại</data>
+</edge>
+<edge source="Nam" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="Nam" target="gấu">
+  <data key="d1">giả</data>
+</edge>
+<edge source="cho" target="hơn">
+  <data key="d1">sót</data>
+</edge>
+<edge source="cho" target="ra">
+  <data key="d1">giả</data>
+</edge>
+<edge source="cho" target="trên">
+  <data key="d1">giả</data>
+</edge>
+<edge source="cho" target="bộ">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="cho" target="khoảng">
+  <data key="d1">cho</data>
+</edge>
+<edge source="ứng" target="hình">
+  <data key="d1">với</data>
+</edge>
+<edge source="thiết" target="và">
+  <data key="d1">loại</data>
+</edge>
+<edge source="đánh" target="khứ">
+  <data key="d1">giá</data>
+</edge>
+<edge source="N" target="trị">
+  <data key="d1">có</data>
+</edge>
+<edge source="khi" target="nhập">
+  <data key="d1">dựa</data>
+</edge>
+<edge source="khi" target="tweet">
+  <data key="d1">cho</data>
+</edge>
+<edge source="Biểu" target="liệu">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="Biểu" target="trên">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="Biểu" target="SVR">
+  <data key="d1">thực</data>
+</edge>
+<edge source="Biểu" target="lên">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Biểu" target="dùng">
+  <data key="d1">có</data>
+</edge>
+<edge source="Đối" target="Đặt">
+  <data key="d1">thuyết</data>
+</edge>
+<edge source="hàm" target="và">
+  <data key="d1">có</data>
+</edge>
+<edge source="Vẽ" target="GDP">
+  <data key="d1">trên</data>
+</edge>
+<edge source="một" target="ኃng">
+  <data key="d1">siêu</data>
+</edge>
+<edge source="kê" target="năng">
+  <data key="d1">dự</data>
+</edge>
+<edge source="và" target="vị">
+  <data key="d1">mean</data>
+</edge>
+<edge source="và" target="từng">
+  <data key="d1">bậc</data>
+</edge>
+<edge source="và" target="lý">
+  <data key="d1">mùa</data>
+</edge>
+<edge source="của" target="Prob(Q">
+  <data key="d1">sai</data>
+</edge>
+<edge source="Chương" target="bài">
+  <data key="d1">toán</data>
+</edge>
+<edge source="Chương" target="tác">
+  <data key="d1">giả</data>
+</edge>
+<edge source="ra" target="liệu">
+  <data key="d1">quyết</data>
+</edge>
+<edge source="ra" target="qua">
+  <data key="d1">trên</data>
+</edge>
+<edge source="ra" target="thực">
+  <data key="d1">trên</data>
+</edge>
+<edge source="ra" target="khác">
+  <data key="d1">giả</data>
+</edge>
+<edge source="ra" target="thêm">
+  <data key="d1">do</data>
+</edge>
+<edge source="Ngược" target="chối">
+  <data key="d1">lại</data>
+</edge>
+<edge source="Miền" target="𝐻଴">
+  <data key="d1">giả</data>
+</edge>
+<edge source="A" target="f">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="𝜇௜" target="𝜇௞">
+  <data key="d1">giả</data>
+</edge>
+<edge source="Bibica" target="điểm">
+  <data key="d1">có</data>
+</edge>
+<edge source="Bibica" target="trên">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="Haribo" target="xác">
+  <data key="d1">với</data>
+</edge>
+<edge source="𝑍ଶ௝/𝑁ଶ=" target="alpha">
+  <data key="d1">số</data>
+</edge>
+<edge source="này" target="thương">
+  <data key="d1">thı̀</data>
+</edge>
+<edge source="này" target="tả">
+  <data key="d1">oቷi</data>
+</edge>
+<edge source="từng" target="giá">
+  <data key="d1">tı́nh</data>
+</edge>
+<edge source="Bậc" target="tượng">
+  <data key="d1">có</data>
+</edge>
+<edge source="SSW" target="bình">
+  <data key="d1">của</data>
+</edge>
+<edge source="SSW" target="chính">
+  <data key="d1">giá</data>
+</edge>
+<edge source="SSW" target="phương">
+  <data key="d1">còn</data>
+</edge>
+<edge source="Giá" target="𝑞">
+  <data key="d1">trị</data>
+</edge>
+<edge source="thực" target="tuye">
+  <data key="d1">hiện</data>
+</edge>
+<edge source="biến" target="khái">
+  <data key="d1">squared</data>
+</edge>
+<edge source="biến" target="lý">
+  <data key="d1">có</data>
+</edge>
+<edge source="biến" target="phụ">
+  <data key="d1">hữu</data>
+</edge>
+<edge source="biến" target="nay">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="biến" target="nhiên">
+  <data key="d1">với</data>
+</edge>
+<edge source="biến" target="liệu">
+  <data key="d1">với</data>
+</edge>
+<edge source="biến" target="nếu">
+  <data key="d1">có</data>
+</edge>
+<edge source="biến" target="𝑌෠=𝛽଴+𝛽ଵ𝑋">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="biến" target="hình">
+  <data key="d1">có</data>
+</edge>
+<edge source="biến" target="thực">
+  <data key="d1">thực</data>
+</edge>
+<edge source="biến" target="phải">
+  <data key="d1">có</data>
+</edge>
+<edge source="biến" target="Number">
+  <data key="d1">sử</data>
+</edge>
+<edge source="biến" target="nhưng">
+  <data key="d1">lặp</data>
+</edge>
+<edge source="biến" target="chỉ">
+  <data key="d1">có</data>
+</edge>
+<edge source="biến" target="thích">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="Không" target="bình">
+  <data key="d1">có</data>
+</edge>
+<edge source="Không" target="viện">
+  <data key="d1">có</data>
+</edge>
+<edge source="II" target="𝐻ଵ">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="𝑑𝑓஻" target="஼">
+  <data key="d1">𝑀𝑆஻</data>
+</edge>
+<edge source="ı́t" target="nhóm">
+  <data key="d1">aቷt</data>
+</edge>
+<edge source="ı́t" target="nhau">
+  <data key="d1">aቷt</data>
+</edge>
+<edge source="Dùng" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="X" target="bias">
+  <data key="d1">gây</data>
+</edge>
+<edge source="H଴" target="Với">
+  <data key="d1">giả</data>
+</edge>
+<edge source="௝" target="phân">
+  <data key="d1">𝐸௜௝~𝜒ଶ(𝑟−1)∗(𝑐−1)௖</data>
+</edge>
+<edge source="sử" target="là">
+  <data key="d1">dataframe</data>
+</edge>
+<edge source="H1" target="phân">
+  <data key="d1">loại</data>
+</edge>
+<edge source="H0" target="Int">
+  <data key="d1">keቷt</data>
+</edge>
+<edge source="Pr(&gt;F" target="ch">
+  <data key="d1">oቷi</data>
+</edge>
+<edge source="Gender" target="GPA">
+  <data key="d1">isAttend</data>
+</edge>
+<edge source="kết" target="cứu">
+  <data key="d1">quả</data>
+</edge>
+<edge source="kết" target="tích">
+  <data key="d1">quả</data>
+</edge>
+<edge source="kết" target="nhân">
+  <data key="d1">Divorced</data>
+</edge>
+<edge source="kết" target="mẫu">
+  <data key="d1">phần</data>
+</edge>
+<edge source="kết" target="sấp">
+  <data key="d1">quả</data>
+</edge>
+<edge source="trong" target="loại">
+  <data key="d1">tı́nh</data>
+</edge>
+<edge source="trong" target="định">
+  <data key="d1">phần</data>
+</edge>
+<edge source="trong" target="khái">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="Y" target="tính">
+  <data key="d1">với</data>
+</edge>
+<edge source="Y" target="biểu">
+  <data key="d1">toán</data>
+</edge>
+<edge source="Income" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="Vậy" target="nhóm">
+  <data key="d1">trong</data>
+</edge>
+<edge source="lớn" target="liệu">
+  <data key="d1">có</data>
+</edge>
+<edge source="lớn" target="và">
+  <data key="d1">sắp</data>
+</edge>
+<edge source="lớn" target="nhất">
+  <data key="d1">giá</data>
+</edge>
+<edge source="lớn" target="tăng">
+  <data key="d1">lực</data>
+</edge>
+<edge source="lớn" target="này">
+  <data key="d1">có</data>
+</edge>
+<edge source="lớn" target="phân">
+  <data key="d1">loại</data>
+</edge>
+<edge source="lớn" target="số">
+  <data key="d1">cẩn</data>
+</edge>
+<edge source="R²" target="chỉnh">
+  <data key="d1">giá</data>
+</edge>
+<edge source="R²" target="chính">
+  <data key="d1">cung</data>
+</edge>
+<edge source="Yêu" target="viện">
+  <data key="d1">sklearn.linear_model</data>
+</edge>
+<edge source="Yêu" target="file">
+  <data key="d1">learn</data>
+</edge>
+<edge source="là" target="giá">
+  <data key="d1">trị</data>
+</edge>
+<edge source="plt.scatter(X" target="plt.legend">
+  <data key="d1">plt.legend</data>
+</edge>
+<edge source="Waiting_Time" target="bác">
+  <data key="d1">giả</data>
+</edge>
+<edge source="Repair_Time" target="tóm">
+  <data key="d1">Waiting_Time</data>
+</edge>
+<edge source="Independent_Variables" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="cư" target="hơn">
+  <data key="d1">có</data>
+</edge>
+<edge source="Quận" target="m2">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Hãy" target="đây">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="Volume" target="LSTM">
+  <data key="d1">kép</data>
+</edge>
+<edge source="Hàm" target="xuất">
+  <data key="d1">phi</data>
+</edge>
+<edge source="Hàm" target="𝜃">
+  <data key="d1">likelihood</data>
+</edge>
+<edge source="𝑃(𝑋|𝜃)=𝑃൫(𝑥ଵ,𝑥ଶ," target="hợp">
+  <data key="d1">với</data>
+</edge>
+<edge source="𝑥௜" target="1">
+  <data key="d1">có</data>
+</edge>
+<edge source="𝜃ଶ+1−𝑥௜" target="𝑑𝜃ଶ=">
+  <data key="d1">−෍൬𝑥௜</data>
+</edge>
+<edge source="Hessian" target="Và">
+  <data key="d1">⎣⎢⎢⎢⎢⎡෍ℎఉ(𝑥௜)(1−௡</data>
+</edge>
+<edge source="GPA" target="Std">
+  <data key="d1">với</data>
+</edge>
+<edge source="GPA" target="đoán">
+  <data key="d1">dựa</data>
+</edge>
+<edge source="có" target="trưng">
+  <data key="d1">có</data>
+</edge>
+<edge source="có" target="bỏ">
+  <data key="d1">giả</data>
+</edge>
+<edge source="có" target="likehood">
+  <data key="d1">likelihood</data>
+</edge>
+<edge source="isAttend" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="Call" target="=">
+  <data key="d1">isAttend</data>
+</edge>
+<edge source="Undergraduate" target="nghiệm">
+  <data key="d1">isAttend</data>
+</edge>
+<edge source="Tỉ" target="và">
+  <data key="d1">số</data>
+</edge>
+<edge source="ARIMA" target="mở">
+  <data key="d1">rộng</data>
+</edge>
+<edge source="ARIMA" target="lớp">
+  <data key="d1">lặp</data>
+</edge>
+<edge source="ARIMA" target="print(arima_model.summary">
+  <data key="d1">set</data>
+</edge>
+<edge source="ARIMA" target="gì">
+  <data key="d1">có</data>
+</edge>
+<edge source="ARIMA" target="quả">
+  <data key="d1">với</data>
+</edge>
+<edge source="LSTM" target="chuo">
+  <data key="d1">ችi</data>
+</edge>
+<edge source="AR" target="hiện">
+  <data key="d1">Moving</data>
+</edge>
+<edge source="AR" target="trước">
+  <data key="d1">𝜃ଵ</data>
+</edge>
+<edge source="tích" target="tính">
+  <data key="d1">văn</data>
+</edge>
+<edge source="tích" target="bổ">
+  <data key="d1">sung</data>
+</edge>
+<edge source="tích" target="đảm">
+  <data key="d1">bảo</data>
+</edge>
+<edge source="tích" target="tố">
+  <data key="d1">trên</data>
+</edge>
+<edge source="tích" target="hơn">
+  <data key="d1">giá</data>
+</edge>
+<edge source="tích" target="tượng">
+  <data key="d1">trên</data>
+</edge>
+<edge source="Chuo" target="chı́nh">
+  <data key="d1">ችi</data>
+</edge>
+<edge source="Mục" target="dụng">
+  <data key="d1">tiêu</data>
+</edge>
+<edge source="ARIMA(2,1,2)(0,0,0)[0" target="SARIMAX">
+  <data key="d1">=</data>
+</edge>
+<edge source="H" target="và">
+  <data key="d1">chấp</data>
+</edge>
+<edge source="hàm" target="nhaቷt">
+  <data key="d1">do</data>
+</edge>
+<edge source="SVM" target="minh">
+  <data key="d1">toán</data>
+</edge>
+<edge source="SVM" target="này">
+  <data key="d1">có</data>
+</edge>
+<edge source="Hı̀nh" target="với">
+  <data key="d1">ቷu</data>
+</edge>
+<edge source="khiến" target="cao">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Twitter" target="Tweepy">
+  <data key="d1">dụng</data>
+</edge>
+<edge source="Twitter" target="tính">
+  <data key="d1">toán</data>
+</edge>
+<edge source="Date" target="ứng">
+  <data key="d1">giao</data>
+</edge>
+<edge source="Date" target="'">
+  <data key="d1">pd.to_datetime(data['Date</data>
+</edge>
+<edge source="SVR" target="nghiệm">
+  <data key="d1">có</data>
+</edge>
+<edge source="X_train" target="Reshape">
+  <data key="d1">create_dataset(test_data</data>
+</edge>
+<edge source="Chú" target="nhau">
+  <data key="d1">toán</data>
+</edge>
+<edge source="SVR(kernel='linear" target="tượng">
+  <data key="d1">svr</data>
+</edge>
+<edge source="svr.fit(X_train" target="hình">
+  <data key="d1">svr.fit(X_train</data>
+</edge>
+<edge source="Import" target="khoán">
+  <data key="d1">inplace</data>
+</edge>
+<edge source="scaler.fit_transform(df['Price'].values.reshape(-1" target="scaler">
+  <data key="d1">np_scaled</data>
+</edge>
+<edge source="df['anomaly" target="model.fit(data">
+  <data key="d1">=</data>
+</edge>
+<edge source="hưởng" target="báo">
+  <data key="d1">hiệu</data>
+</edge>
+<edge source="Khái" target="Forest">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="liệu" target="bài">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="liệu" target="góp">
+  <data key="d1">phần</data>
+</edge>
+<edge source="liệu" target="phương">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="liệu" target="Từ">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="liệu" target="mở">
+  <data key="d1">rộng</data>
+</edge>
+<edge source="liệu" target="loại">
+  <data key="d1">sử</data>
+</edge>
+<edge source="liệu" target="đồng">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="liệu" target="phân">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="liệu" target="đề">
+  <data key="d1">với</data>
+</edge>
+<edge source="liệu" target="lo">
+  <data key="d1">ngại</data>
+</edge>
+<edge source="liệu" target="thống">
+  <data key="d1">bằng</data>
+</edge>
+<edge source="liệu" target="giữa">
+  <data key="d1">chẵn</data>
+</edge>
+<edge source="liệu" target="lệ">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="và">
+  <data key="d1">mức</data>
+</edge>
+<edge source="liệu" target="𝑥̅">
+  <data key="d1">giá</data>
+</edge>
+<edge source="liệu" target="Độ">
+  <data key="d1">mức</data>
+</edge>
+<edge source="liệu" target="độ">
+  <data key="d1">lệch</data>
+</edge>
+<edge source="liệu" target="đọc">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="liệu" target="tìm">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="liệu" target="nhau">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="hình">
+  <data key="d1">trên</data>
+</edge>
+<edge source="liệu" target="15">
+  <data key="d1">thực</data>
+</edge>
+<edge source="liệu" target="nếu">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="phẩm">
+  <data key="d1">click</data>
+</edge>
+<edge source="liệu" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="mới">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="chuỗi">
+  <data key="d1">có</data>
+</edge>
+<edge source="liệu" target="đo">
+  <data key="d1">mức</data>
+</edge>
+<edge source="liệu" target="tính">
+  <data key="d1">cho</data>
+</edge>
+<edge source="liệu" target="ngưỡng">
+  <data key="d1">với</data>
+</edge>
+<edge source="liệu" target="scaler">
+  <data key="d1">phiếu</data>
+</edge>
+<edge source="liệu" target="mức">
+  <data key="d1">có</data>
+</edge>
+<edge source="khái" target="chung">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="khái" target="này">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="khái" target="kế">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="khái" target="tuyến">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="khái" target="5.1">
+  <data key="d1">thực</data>
+</edge>
+<edge source="khái" target="22">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="khái" target="thuyết">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="bài" target="nhà">
+  <data key="d1">giá</data>
+</edge>
+<edge source="viên" target="code">
+  <data key="d1">dụng</data>
+</edge>
+<edge source="viên" target="tham">
+  <data key="d1">có</data>
+</edge>
+<edge source="code" target="yêu">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="đọc" target="hơn">
+  <data key="d1">giả</data>
+</edge>
+<edge source="đọc" target="kiến">
+  <data key="d1">giả</data>
+</edge>
+<edge source="đọc" target="khác">
+  <data key="d1">giả</data>
+</edge>
+<edge source="hơn" target="phân">
+  <data key="d1">với</data>
+</edge>
+<edge source="hơn" target="giúp">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="hơn" target="và">
+  <data key="d1">lớn</data>
+</edge>
+<edge source="hơn" target="trường">
+  <data key="d1">giá</data>
+</edge>
+<edge source="hơn" target="as.numeric(factor(df$&lt;column">
+  <data key="d1">giá</data>
+</edge>
+<edge source="hơn" target="deviance">
+  <data key="d1">thấp</data>
+</edge>
+<edge source="hơn" target="trước">
+  <data key="d1">với</data>
+</edge>
+<edge source="tác" target="tweet">
+  <data key="d1">cho</data>
+</edge>
+<edge source="tính" target="quy">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="chỉnh">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="yếu">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="ଶቓቁ+𝑥ቀቔ௡">
+  <data key="d1">giá</data>
+</edge>
+<edge source="tính" target="sau">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="௡భ+ௌమమ">
+  <data key="d1">ටఙభమ</data>
+</edge>
+<edge source="tính" target="௡భ+ଵ">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="𝑆௡ೞିଵଶ~𝐹𝑖𝑠ℎ𝑒𝑟(𝑛ଵ−1,𝑛௦−1">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="variation">
+  <data key="d1">cần</data>
+</edge>
+<edge source="tính" target="phương">
+  <data key="d1">do</data>
+</edge>
+<edge source="tính" target="thích">
+  <data key="d1">trên</data>
+</edge>
+<edge source="tính" target="biểu">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="tính" target="Estimation">
+  <data key="d1">hàm</data>
+</edge>
+<edge source="tính" target="tiến">
+  <data key="d1">hợp</data>
+</edge>
+<edge source="tính" target="𝑋=">
+  <data key="d1">thực</data>
+</edge>
+<edge source="tính" target="hướng">
+  <data key="d1">chất</data>
+</edge>
+<edge source="tính" target="gian">
+  <data key="d1">dừng</data>
+</edge>
+<edge source="tính" target="thường">
+  <data key="d1">thực</data>
+</edge>
+<edge source="tính" target="toán">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="nhất">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="lượt">
+  <data key="d1">toán</data>
+</edge>
+<edge source="tính" target="trước">
+  <data key="d1">toán</data>
+</edge>
+<edge source="phân" target="hình">
+  <data key="d1">phối</data>
+</edge>
+<edge source="phân" target="dạng">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="hàng">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="xuất">
+  <data key="d1">cụm</data>
+</edge>
+<edge source="phân" target="tuyến">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="rạc">
+  <data key="d1">có</data>
+</edge>
+<edge source="phân" target="chuẩn">
+  <data key="d1">dương</data>
+</edge>
+<edge source="phân" target="nhọn">
+  <data key="d1">với</data>
+</edge>
+<edge source="phân" target="degree">
+  <data key="d1">đại</data>
+</edge>
+<edge source="phân" target="phụ">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="phân" target="tra">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="quả">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="cậy">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="học">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="bản">
+  <data key="d1">loại</data>
+</edge>
+<edge source="phân" target="tại">
+  <data key="d1">tách</data>
+</edge>
+<edge source="hình" target="trạng">
+  <data key="d1">overfitting</data>
+</edge>
+<edge source="hình" target="Nó">
+  <data key="d1">cho</data>
+</edge>
+<edge source="hình" target="sau">
+  <data key="d1">có</data>
+</edge>
+<edge source="hình" target="gì">
+  <data key="d1">hồi</data>
+</edge>
+<edge source="hình" target="cùng">
+  <data key="d1">thực</data>
+</edge>
+<edge source="quan" target="nhu">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="quan" target="minh">
+  <data key="d1">xem</data>
+</edge>
+<edge source="quan" target="liệu">
+  <data key="d1">bie</data>
+</edge>
+<edge source="quan" target="khảo">
+  <data key="d1">hiển</data>
+</edge>
+<edge source="quan" target="bội">
+  <data key="d1">hàm</data>
+</edge>
+<edge source="quan" target="câu">
+  <data key="d1">cho</data>
+</edge>
+<edge source="quan" target="chu">
+  <data key="d1">oችi</data>
+</edge>
+<edge source="hành" target="ngữ">
+  <data key="d1">trên</data>
+</edge>
+<edge source="hành" target="văn">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="hành" target="diện">
+  <data key="d1">trên</data>
+</edge>
+<edge source="hành" target="thực">
+  <data key="d1">với</data>
+</edge>
+<edge source="ngữ" target="lại">
+  <data key="d1">trên</data>
+</edge>
+<edge source="TÍCH" target="LIỆU">
+  <data key="d1">DIỄN</data>
+</edge>
+<edge source="LIỆU" target="..............................................................................................................">
+  <data key="d1">THAM</data>
+</edge>
+<edge source="lượng" target="bình">
+  <data key="d1">giá</data>
+</edge>
+<edge source="lượng" target="phương">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="lượng" target="thể">
+  <data key="d1">giá</data>
+</edge>
+<edge source="lượng" target="mẫu">
+  <data key="d1">giá</data>
+</edge>
+<edge source="lượng" target="hàng">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="lượng" target="nhóm">
+  <data key="d1">phần</data>
+</edge>
+<edge source="lượng" target="hiệu">
+  <data key="d1">lại</data>
+</edge>
+<edge source="bình" target="cạnh">
+  <data key="d1">niệm</data>
+</edge>
+<edge source="bình" target="trống">
+  <data key="d1">điền</data>
+</edge>
+<edge source="bình" target="mỗi">
+  <data key="d1">với</data>
+</edge>
+<edge source="bình" target="mức">
+  <data key="d1">sử</data>
+</edge>
+<edge source="bình" target="này">
+  <data key="d1">giá</data>
+</edge>
+<edge source="bình" target="kẹo">
+  <data key="d1">lên</data>
+</edge>
+<edge source="bình" target="đối">
+  <data key="d1">phần</data>
+</edge>
+<edge source="bình" target="và">
+  <data key="d1">giá</data>
+</edge>
+<edge source="nhà" target="nó">
+  <data key="d1">tầng</data>
+</edge>
+<edge source="bổ" target="đậm">
+  <data key="d1">đeቻ</data>
+</edge>
+<edge source="trên" target="khảo">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="trên" target="yếu">
+  <data key="d1">có</data>
+</edge>
+<edge source="trên" target="hiện">
+  <data key="d1">câu</data>
+</edge>
+<edge source="trên" target="ban">
+  <data key="d1">có</data>
+</edge>
+<edge source="minh" target="đây">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="minh" target="phẳng">
+  <data key="d1">có</data>
+</edge>
+<edge source="minh" target="trình">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="quy" target="bắc">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="quy" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="quy" target="gì">
+  <data key="d1">có</data>
+</edge>
+<edge source="quy" target="trị">
+  <data key="d1">toán</data>
+</edge>
+<edge source="wx" target="và">
+  <data key="d1">toán</data>
+</edge>
+<edge source="và" target="dựa">
+  <data key="d1">toán</data>
+</edge>
+<edge source="và" target="gian">
+  <data key="d1">động</data>
+</edge>
+<edge source="và" target="thể">
+  <data key="d1">giá</data>
+</edge>
+<edge source="và" target="nhất">
+  <data key="d1">giá</data>
+</edge>
+<edge source="và" target="sát">
+  <data key="d1">với</data>
+</edge>
+<edge source="và" target="nhau">
+  <data key="d1">triệt</data>
+</edge>
+<edge source="và" target="4.3">
+  <data key="d1">𝑧=𝛽ଵ𝑥+𝛽ଶ</data>
+</edge>
+<edge source="và" target="e">
+  <data key="d1">thì</data>
+</edge>
+<edge source="và" target="ảnh">
+  <data key="d1">underfitting</data>
+</edge>
+<edge source="và" target="ngoài">
+  <data key="d1">với</data>
+</edge>
+<edge source="và" target="luyện">
+  <data key="d1">với</data>
+</edge>
+<edge source="và" target="cây">
+  <data key="d1">sử</data>
+</edge>
+<edge source="và" target="báo">
+  <data key="d1">giá</data>
+</edge>
+<edge source="số" target="Với">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="số" target="Số">
+  <data key="d1">chẵn</data>
+</edge>
+<edge source="số" target="lệch">
+  <data key="d1">trên</data>
+</edge>
+<edge source="số" target="=">
+  <data key="d1">=</data>
+</edge>
+<edge source="tham" target="oቷ">
+  <data key="d1">giá</data>
+</edge>
+<edge source="tham" target="đích">
+  <data key="d1">có</data>
+</edge>
+<edge source="yếu" target="phiên">
+  <data key="d1">sử</data>
+</edge>
+<edge source="yếu" target="như">
+  <data key="d1">cần</data>
+</edge>
+<edge source="thống" target="cao">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="thống" target="trải">
+  <data key="d1">nghiệm</data>
+</edge>
+<edge source="thống" target="nó">
+  <data key="d1">có</data>
+</edge>
+<edge source="thống" target="nhưng">
+  <data key="d1">mức</data>
+</edge>
+<edge source="thống" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="cao" target="hàng">
+  <data key="d1">mức</data>
+</edge>
+<edge source="cao" target="quá">
+  <data key="d1">thấp</data>
+</edge>
+<edge source="cao" target="thì">
+  <data key="d1">cho</data>
+</edge>
+<edge source="cao" target="tốt">
+  <data key="d1">do</data>
+</edge>
+<edge source="nhân" target="cụm">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="nhân" target="đây">
+  <data key="d1">rất</data>
+</edge>
+<edge source="nhân" target="tình">
+  <data key="d1">trạng</data>
+</edge>
+<edge source="nhân" target="khác">
+  <data key="d1">với</data>
+</edge>
+<edge source="cách" target="tế">
+  <data key="d1">thực</data>
+</edge>
+<edge source="tế" target="củng">
+  <data key="d1">cố</data>
+</edge>
+<edge source="tế" target="trị">
+  <data key="d1">thực</data>
+</edge>
+<edge source="phần" target="nhau">
+  <data key="d1">phần</data>
+</edge>
+<edge source="phương" target="nhóm">
+  <data key="d1">sai</data>
+</edge>
+<edge source="phương" target="kẹo">
+  <data key="d1">do</data>
+</edge>
+<edge source="phương" target="tránh">
+  <data key="d1">differencing</data>
+</edge>
+<edge source="nhau" target="hai">
+  <data key="d1">phần</data>
+</edge>
+<edge source="nhau" target="luận">
+  <data key="d1">có</data>
+</edge>
+<edge source="nhau" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="nhau" target="nghĩa">
+  <data key="d1">với</data>
+</edge>
+<edge source="nhau" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="nhau" target="qua">
+  <data key="d1">lại</data>
+</edge>
+<edge source="nhu" target="năm">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="giúp" target="tranh">
+  <data key="d1">hiểu</data>
+</edge>
+<edge source="giúp" target="tại">
+  <data key="d1">sung</data>
+</edge>
+<edge source="tranh" target="trị">
+  <data key="d1">giá</data>
+</edge>
+<edge source="loại" target="dụng">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="trị" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="trị" target="ARIMA(0">
+  <data key="d1">tại</data>
+</edge>
+<edge source="Ví" target="tháng">
+  <data key="d1">giá</data>
+</edge>
+<edge source="dạng" target="phẳng">
+  <data key="d1">có</data>
+</edge>
+<edge source="nhóm" target="tách">
+  <data key="d1">sử</data>
+</edge>
+<edge source="nhóm" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="nhóm" target="với">
+  <data key="d1">mức</data>
+</edge>
+<edge source="hàng" target="trang">
+  <data key="d1">mặc</data>
+</edge>
+<edge source="hàng" target="hiện">
+  <data key="d1">có</data>
+</edge>
+<edge source="hàng" target="thiên">
+  <data key="d1">có</data>
+</edge>
+<edge source="trình" target="học">
+  <data key="d1">toán</data>
+</edge>
+<edge source="trình" target="nghiệm">
+  <data key="d1">thực</data>
+</edge>
+<edge source="đảm" target="quả">
+  <data key="d1">bảo</data>
+</edge>
+<edge source="quả" target="tiềm">
+  <data key="d1">ẩn</data>
+</edge>
+<edge source="quả" target="phụ">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="lý" target="thiếu">
+  <data key="d1">giá</data>
+</edge>
+<edge source="thể" target="giá">
+  <data key="d1">giá</data>
+</edge>
+<edge source="thể" target="thể">
+  <data key="d1">có</data>
+</edge>
+<edge source="thể" target="biệt">
+  <data key="d1">có</data>
+</edge>
+<edge source="thể" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="thể" target="một">
+  <data key="d1">tại</data>
+</edge>
+<edge source="thể" target="random_state">
+  <data key="d1">toán</data>
+</edge>
+<edge source="giá" target="của">
+  <data key="d1">thực</data>
+</edge>
+<edge source="bản" target="toán">
+  <data key="d1">sang</data>
+</edge>
+<edge source="bản" target="thuật">
+  <data key="d1">văn</data>
+</edge>
+<edge source="thuật" target="hợp">
+  <data key="d1">tạo</data>
+</edge>
+<edge source="thuật" target="6.1.3.2">
+  <data key="d1">toán</data>
+</edge>
+<edge source="thuật" target="thêm">
+  <data key="d1">có</data>
+</edge>
+<edge source="hợp" target="thước">
+  <data key="d1">với</data>
+</edge>
+<edge source="hợp" target="data">
+  <data key="d1">glm(isAttend</data>
+</edge>
+<edge source="hợp" target="𝑡">
+  <data key="d1">tại</data>
+</edge>
+<edge source="hợp" target="trước">
+  <data key="d1">có</data>
+</edge>
+<edge source="hợp" target="ARIMA(1,1,1">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="lệ" target="Nhận">
+  <data key="d1">ngoại</data>
+</edge>
+<edge source="lệ" target="như">
+  <data key="d1">giá</data>
+</edge>
+<edge source="lệ" target="phố">
+  <data key="d1">do</data>
+</edge>
+<edge source="lệ" target="=">
+  <data key="d1">data['Close'].values</data>
+</edge>
+<edge source="-" target="từ">
+  <data key="d1">giá</data>
+</edge>
+<edge source="từ" target="xạ">
+  <data key="d1">sang</data>
+</edge>
+<edge source="chiến" target="này">
+  <data key="d1">dành</data>
+</edge>
+<edge source="này" target="ty">
+  <data key="d1">sử</data>
+</edge>
+<edge source="này" target="mình">
+  <data key="d1">sữa</data>
+</edge>
+<edge source="này" target="tăng">
+  <data key="d1">có</data>
+</edge>
+<edge source="này" target="đơn">
+  <data key="d1">có</data>
+</edge>
+<edge source="này" target="diễn">
+  <data key="d1">điểm</data>
+</edge>
+<edge source="này" target="cần">
+  <data key="d1">có</data>
+</edge>
+<edge source="tách" target="không">
+  <data key="d1">có</data>
+</edge>
+<edge source="tiếp" target="cặp">
+  <data key="d1">rồi</data>
+</edge>
+<edge source="phụ" target="giữa">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="phụ" target="nước">
+  <data key="d1">tạo</data>
+</edge>
+<edge source="phụ" target="3.2">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="phụ" target="Khởi">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="phụ" target="viện">
+  <data key="d1">thuộc</data>
+</edge>
+<edge source="phụ" target="chỉ">
+  <data key="d1">có</data>
+</edge>
+<edge source="phụ" target="thành">
+  <data key="d1">phần</data>
+</edge>
+<edge source="nước" target="gas">
+  <data key="d1">có</data>
+</edge>
+<edge source="đề" target="điểm">
+  <data key="d1">liền</data>
+</edge>
+<edge source="tới" target="nhằm">
+  <data key="d1">giá</data>
+</edge>
+<edge source="dựa" target="rủi">
+  <data key="d1">trên</data>
+</edge>
+<edge source="dựa" target="sát">
+  <data key="d1">dãy</data>
+</edge>
+<edge source="dựa" target="thực">
+  <data key="d1">giá</data>
+</edge>
+<edge source="dựa" target="chờ">
+  <data key="d1">với</data>
+</edge>
+<edge source="dựa" target="tổng">
+  <data key="d1">trên</data>
+</edge>
+<edge source="tuyến" target="biểu">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="tuyến" target="β଴𝑒ିஒభ௑(3−9">
+  <data key="d1">có</data>
+</edge>
+<edge source="gian" target="một">
+  <data key="d1">có</data>
+</edge>
+<edge source="gian" target="chuỗi">
+  <data key="d1">có</data>
+</edge>
+<edge source="gian" target="r">
+  <data key="d1">với</data>
+</edge>
+<edge source="gian" target="chu">
+  <data key="d1">oችi</data>
+</edge>
+<edge source="nhiều" target="mẫu">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="mẫu" target="Độ">
+  <data key="d1">lệch</data>
+</edge>
+<edge source="mẫu" target="tập">
+  <data key="d1">có</data>
+</edge>
+<edge source="mẫu" target="dùng">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="mẫu" target="nhỏ">
+  <data key="d1">có</data>
+</edge>
+<edge source="mẫu" target="kiện">
+  <data key="d1">có</data>
+</edge>
+<edge source="không" target="thì">
+  <data key="d1">có</data>
+</edge>
+<edge source="không" target="tượng">
+  <data key="d1">có</data>
+</edge>
+<edge source="không" target="giữa">
+  <data key="d1">động</data>
+</edge>
+<edge source="không" target="b">
+  <data key="d1">có</data>
+</edge>
+<edge source="không" target="học">
+  <data key="d1">đại</data>
+</edge>
+<edge source="thì" target="thay">
+  <data key="d1">có</data>
+</edge>
+<edge source="thì" target="thường">
+  <data key="d1">có</data>
+</edge>
+<edge source="hai" target="=">
+  <data key="d1">toán</data>
+</edge>
+<edge source="giữa" target="đó">
+  <data key="d1">có</data>
+</edge>
+<edge source="giữa" target="dung">
+  <data key="d1">giá</data>
+</edge>
+<edge source="Với" target="level">
+  <data key="d1">mức</data>
+</edge>
+<edge source="Với" target="thuyết">
+  <data key="d1">giả</data>
+</edge>
+<edge source="đã" target="dần">
+  <data key="d1">sắp</data>
+</edge>
+<edge source="ba" target="chính">
+  <data key="d1">giá</data>
+</edge>
+<edge source="ba" target="như">
+  <data key="d1">tứ</data>
+</edge>
+<edge source="chính" target="Quá">
+  <data key="d1">có</data>
+</edge>
+<edge source="đây" target="sai">
+  <data key="d1">hoạ</data>
+</edge>
+<edge source="đây" target="luyện">
+  <data key="d1">với</data>
+</edge>
+<edge source="mức" target="mà">
+  <data key="d1">giá</data>
+</edge>
+<edge source="nhất" target="𝐻ଵ">
+  <data key="d1">có</data>
+</edge>
+<edge source="nhất" target="xây">
+  <data key="d1">thì</data>
+</edge>
+<edge source="nhất" target="đạt">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="nhất" target="loan_status">
+  <data key="d1">với</data>
+</edge>
+<edge source="chúng" target="chiều">
+  <data key="d1">có</data>
+</edge>
+<edge source="chúng" target="thấy">
+  <data key="d1">có</data>
+</edge>
+<edge source="chúng" target="hệ">
+  <data key="d1">với</data>
+</edge>
+<edge source="chúng" target="15">
+  <data key="d1">có</data>
+</edge>
+<edge source="hệ" target="mạnh">
+  <data key="d1">dương</data>
+</edge>
+<edge source="hoàn" target="xứng">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="hoàn" target="thi">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="hoàn" target="mới">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="hoàn" target="dừng">
+  <data key="d1">toàn</data>
+</edge>
+<edge source="biểu" target="biệt">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="biểu" target="tố">
+  <data key="d1">diễn</data>
+</edge>
+<edge source="biệt" target="dàng">
+  <data key="d1">có</data>
+</edge>
+<edge source="đối" target="tục">
+  <data key="d1">với</data>
+</edge>
+<edge source="đối" target="thường">
+  <data key="d1">có</data>
+</edge>
+<edge source="tục" target="mà">
+  <data key="d1">giá</data>
+</edge>
+<edge source="tứ" target="vị">
+  <data key="d1">tứ</data>
+</edge>
+<edge source="như" target="likelihood">
+  <data key="d1">squares</data>
+</edge>
+<edge source="như" target="thành">
+  <data key="d1">phần</data>
+</edge>
+<edge source="như" target="thời">
+  <data key="d1">gian</data>
+</edge>
+<edge source="triển" target="web">
+  <data key="d1">ứng</data>
+</edge>
+<edge source="triển" target="học">
+  <data key="d1">ứng</data>
+</edge>
+<edge source="Thư" target="thieቷt">
+  <data key="d1">thieቷt</data>
+</edge>
+<edge source="pandas" target="=">
+  <data key="d1">trên</data>
+</edge>
+<edge source="=" target="school'].replace({'yes">
+  <data key="d1">attend</data>
+</edge>
+<edge source="=" target="p">
+  <data key="d1">cho</data>
+</edge>
+<edge source="thư" target="loại">
+  <data key="d1">viện</data>
+</edge>
+<edge source="đo" target="5">
+  <data key="d1">với</data>
+</edge>
+<edge source="đo" target="thang">
+  <data key="d1">giá</data>
+</edge>
+<edge source="liệu" target="đieቹu">
+  <data key="d1">gı̀</data>
+</edge>
+<edge source="liệu" target="mục">
+  <data key="d1">gı̀</data>
+</edge>
+<edge source="liệu" target="các">
+  <data key="d1">yêu</data>
+</edge>
+<edge source="bè" target="bè">
+  <data key="d1">dương</data>
+</edge>
+<edge source="ቻng" target="đơn">
+  <data key="d1">keቷt</data>
+</edge>
+<edge source="đơn" target="hiệu">
+  <data key="d1">giản</data>
+</edge>
+<edge source="đơn" target="sau">
+  <data key="d1">giản</data>
+</edge>
+<edge source="giá" target="câu">
+  <data key="d1">hiện</data>
+</edge>
+<edge source="giá" target="test">
+  <data key="d1">tı́nh</data>
+</edge>
+<edge source="Tham" target="௜">
+  <data key="d1">số</data>
+</edge>
+<edge source="tìm" target="đoán">
+  <data key="d1">chất</data>
+</edge>
+<edge source="khả" target="liên">
+  <data key="d1">thi</data>
+</edge>
+<edge source="dụ" target="mà">
+  <data key="d1">có</data>
+</edge>
+<edge source="hiện" target="một">
+  <data key="d1">có</data>
+</edge>
+<edge source="hiện" target="distribution">
+  <data key="d1">trên</data>
+</edge>
+<edge source="hiện" target="thêm">
+  <data key="d1">pháp</data>
+</edge>
+<edge source="một" target="thuyết">
+  <data key="d1">giả</data>
+</edge>
+<edge source="nhỏ" target="chối">
+  <data key="d1">giả</data>
+</edge>
+<edge source="cậy" target="𝑥̅±𝑧ఈ/ଶ×ට௙(ଵି௙">
+  <data key="d1">có</data>
+</edge>
+<edge source="μ" target="vnđ">
+  <data key="d1">≤</data>
+</edge>
+<edge source="chối" target="𝐻଴">
+  <data key="d1">giả</data>
+</edge>
+<edge source="lầm" target="suất">
+  <data key="d1">loại</data>
+</edge>
+<edge source="suất" target="vì">
+  <data key="d1">sử</data>
+</edge>
+<edge source="sau" target="biện">
+  <data key="d1">∑</data>
+</edge>
+<edge source="sau" target="công">
+  <data key="d1">thức</data>
+</edge>
+<edge source="sau" target="ví">
+  <data key="d1">phi</data>
+</edge>
+<edge source="với" target="trước">
+  <data key="d1">giá</data>
+</edge>
+<edge source="𝐻ଵ" target="𝐻଴">
+  <data key="d1">toán</data>
+</edge>
+<edge source="𝐻ଵ" target="III">
+  <data key="d1">nhất</data>
+</edge>
+<edge source="thực" target="pháp">
+  <data key="d1">thực</data>
+</edge>
+<edge source="cần" target="sao">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="cần" target="khác">
+  <data key="d1">có</data>
+</edge>
+<edge source="cần" target="chất">
+  <data key="d1">với</data>
+</edge>
+<edge source="kiểm" target="variance">
+  <data key="d1">có</data>
+</edge>
+<edge source="kiểm" target="TukeyHSD">
+  <data key="d1">rs</data>
+</edge>
+<edge source="đó" target="tổng">
+  <data key="d1">sai</data>
+</edge>
+<edge source="đó" target="Bè">
+  <data key="d1">ngoại</data>
+</edge>
+<edge source="đó" target="nhiên">
+  <data key="d1">có</data>
+</edge>
+<edge source="siêu" target="hóa">
+  <data key="d1">có</data>
+</edge>
+<edge source="sát" target="bằng">
+  <data key="d1">còn</data>
+</edge>
+<edge source="𝐷௜" target="âm">
+  <data key="d1">có</data>
+</edge>
+<edge source="bác" target="bỏ">
+  <data key="d1">giả</data>
+</edge>
+<edge source="dụng" target="mới">
+  <data key="d1">có</data>
+</edge>
+<edge source="điểm" target="chuỗi">
+  <data key="d1">𝑡</data>
+</edge>
+<edge source="điểm" target="thừa">
+  <data key="d1">tại</data>
+</edge>
+<edge source="phẩm" target="gói">
+  <data key="d1">trên</data>
+</edge>
+<edge source="i" target="của">
+  <data key="d1">giá</data>
+</edge>
+<edge source="i" target="‖𝑤‖=ඥ⟨𝑤∙𝑤⟩=ට𝑤ଵଶ+𝑤ଶଶ+⋯+𝑤௡ଶ">
+  <data key="d1">đến</data>
+</edge>
+<edge source="của" target="em">
+  <data key="d1">có</data>
+</edge>
+<edge source="thương" target="nhaቷt">
+  <data key="d1">hiệu</data>
+</edge>
+<edge source="thương" target="଼ቁ=">
+  <data key="d1">hiệu</data>
+</edge>
+<edge source="𝑆𝑆𝑊=" target="+">
+  <data key="d1">𝑆𝑆𝑊ீభ+𝑆𝑆𝑊ீమ+𝑆𝑆𝑊ீమ=</data>
+</edge>
+<edge source="tự" target="squares">
+  <data key="d1">mean</data>
+</edge>
+<edge source="thấy" target="hưởng">
+  <data key="d1">đáng</data>
+</edge>
+<edge source="nghĩa" target="𝐹௖௥௜௧">
+  <data key="d1">𝐹௖௥௜௧</data>
+</edge>
+<edge source="các" target="𝑑𝑓ௌௌௐ">
+  <data key="d1">do</data>
+</edge>
+<edge source="doanh" target="thu">
+  <data key="d1">tiêu</data>
+</edge>
+<edge source="tại" target="trường">
+  <data key="d1">thị</data>
+</edge>
+<edge source="trường" target="mặt">
+  <data key="d1">thị</data>
+</edge>
+<edge source="kẹo" target="khác">
+  <data key="d1">có</data>
+</edge>
+<edge source="khác" target="Một">
+  <data key="d1">với</data>
+</edge>
+<edge source="Liệu" target="tại">
+  <data key="d1">có</data>
+</edge>
+<edge source="tại" target="sigmoid">
+  <data key="d1">với</data>
+</edge>
+<edge source="tại" target="2">
+  <data key="d1">câu</data>
+</edge>
+<edge source="tại" target="4">
+  <data key="d1">câu</data>
+</edge>
+<edge source="tại" target="bên">
+  <data key="d1">giá</data>
+</edge>
+<edge source="tự" target="freedom">
+  <data key="d1">do</data>
+</edge>
+<edge source="freedom" target="Làm">
+  <data key="d1">do</data>
+</edge>
+<edge source="஼" target="nguoቹn">
+  <data key="d1">bậc</data>
+</edge>
+<edge source="𝑆𝑆஻" target="஼=𝑆𝑆௧−(𝑆𝑆஻+𝑆𝑆஼+𝑆𝑆௘">
+  <data key="d1">kẹo</data>
+</edge>
+<edge source="𝐹௖_௦௧௔௧&gt;𝐹௖_௖௥௜௧" target="đó">
+  <data key="d1">hiệu</data>
+</edge>
+<edge source="nhiên" target="rằng">
+  <data key="d1">có</data>
+</edge>
+<edge source="gı́a" target="được">
+  <data key="d1">mean</data>
+</edge>
+<edge source="k" target="thaቷy">
+  <data key="d1">eቷt</data>
+</edge>
+<edge source="thaቷy" target="K">
+  <data key="d1">eቷt</data>
+</edge>
+<edge source="thích" target="lòng">
+  <data key="d1">squared</data>
+</edge>
+<edge source="trở" target="'">
+  <data key="d1">có</data>
+</edge>
+<edge source="b" target="ngày">
+  <data key="d1">ti</data>
+</edge>
+<edge source="hồi" target="quát">
+  <data key="d1">có</data>
+</edge>
+<edge source="bảng" target="nhập">
+  <data key="d1">với</data>
+</edge>
+<edge source="பஒೕ௡" target="𝛽ଵ೚೗೏ቇ">
+  <data key="d1">Đạo</data>
+</edge>
+<edge source="Khởi" target="Expenses">
+  <data key="d1">tạo</data>
+</edge>
+<edge source="thành" target="điển">
+  <data key="d1">có</data>
+</edge>
+<edge source="thành" target="tweet">
+  <data key="d1">phần</data>
+</edge>
+<edge source="value" target="*">
+  <data key="d1">5.674e+02</data>
+</edge>
+<edge source="Adjusted" target="1">
+  <data key="d1">squared</data>
+</edge>
+<edge source="dụng" target="thêm">
+  <data key="d1">dự</data>
+</edge>
+<edge source="dụng" target="mức">
+  <data key="d1">dựa</data>
+</edge>
+<edge source="dụng" target="nhập">
+  <data key="d1">dựa</data>
+</edge>
+<edge source="dụng" target="gradients">
+  <data key="d1">cho</data>
+</edge>
+<edge source="năng" target="toቷt">
+  <data key="d1">dự</data>
+</edge>
+<edge source="data" target=".">
+  <data key="d1">DataFrame(np_scaled</data>
+</edge>
+<edge source="tăng" target="lần">
+  <data key="d1">lên</data>
+</edge>
+<edge source="người" target="khu">
+  <data key="d1">có</data>
+</edge>
+<edge source="m2" target="thấp">
+  <data key="d1">giá</data>
+</edge>
+<edge source="yêu" target="car_price">
+  <data key="d1">cầu</data>
+</edge>
+<edge source="2" target="để">
+  <data key="d1">toán</data>
+</edge>
+<edge source="để" target="23">
+  <data key="d1">kiểm</data>
+</edge>
+<edge source="thuộc" target="gọi">
+  <data key="d1">giá</data>
+</edge>
+<edge source="thuộc" target="hưởng">
+  <data key="d1">đáng</data>
+</edge>
+<edge source="ngửa" target="nhiêu">
+  <data key="d1">có</data>
+</edge>
+<edge source="ngửa" target="tung">
+  <data key="d1">trên</data>
+</edge>
+<edge source="𝜃" target="0.0282">
+  <data key="d1">likelihood</data>
+</edge>
+<edge source="tạp" target="tối">
+  <data key="d1">với</data>
+</edge>
+<edge source="tung" target="௜ୀଵ(4−13">
+  <data key="d1">likelihood</data>
+</edge>
+<edge source="likelihood" target="likelihood">
+  <data key="d1">sang</data>
+</edge>
+<edge source="hạng" target="௜ୀଵ(4−19">
+  <data key="d1">sang</data>
+</edge>
+<edge source="đoán" target="đến">
+  <data key="d1">giá</data>
+</edge>
+<edge source="parameter" target="iterations">
+  <data key="d1">taken</data>
+</edge>
+<edge source="tương" target="5.1458">
+  <data key="d1">ứng</data>
+</edge>
+<edge source="tương" target="4.585">
+  <data key="d1">ứng</data>
+</edge>
+<edge source="hưởng" target="kể">
+  <data key="d1">đáng</data>
+</edge>
+<edge source="Ta" target="">
+  <data key="d1">có</data>
+</edge>
+<edge source="CHUỖI" target="Average">
+  <data key="d1">với</data>
+</edge>
+<edge source="chuỗi" target="dừng">
+  <data key="d1">có</data>
+</edge>
+<edge source="dừng" target="d">
+  <data key="d1">với</data>
+</edge>
+<edge source="s" target="vụ">
+  <data key="d1">lặp</data>
+</edge>
+<edge source="cổng" target="bào">
+  <data key="d1">forget</data>
+</edge>
+<edge source="giữ" target="trọng">
+  <data key="d1">lại</data>
+</edge>
+<edge source="đi" target="vào">
+  <data key="d1">giá</data>
+</edge>
+<edge source="vào" target="create_dataset">
+  <data key="d1">hàm</data>
+</edge>
+<edge source="import" target="plt">
+  <data key="d1">chưa</data>
+</edge>
+<edge source="ı́ch" target="báo">
+  <data key="d1">cho</data>
+</edge>
+<edge source="báo" target="viện">
+  <data key="d1">đeቻ</data>
+</edge>
+<edge source="Sample" target="P&gt;|z|">
+  <data key="d1">P&gt;|z|</data>
+</edge>
+<edge source="thường" target="base">
+  <data key="d1">trên</data>
+</edge>
+<edge source="tồn" target="phẳng">
+  <data key="d1">tại</data>
+</edge>
+<edge source="trận" target="lượt">
+  <data key="d1">xanh</data>
+</edge>
+<edge source="trận" target="tin">
+  <data key="d1">giá</data>
+</edge>
+<edge source="-1" target="phủ">
+  <data key="d1">có</data>
+</edge>
+<edge source="xem" target="rmse">
+  <data key="d1">y_pred</data>
+</edge>
+<edge source="train_size" target="np.array(close_scaler[train_size:]).reshape(-1,1">
+  <data key="d1">=</data>
+</edge>
+<edge source="X=0,1,2,3" target="range(len(dataset">
+  <data key="d1">return</data>
+</edge>
+<edge source="Mô" target="numpy">
+  <data key="d1">toán</data>
+</edge>
+<edge source="kiểu" target="df['Price">
+  <data key="d1">float</data>
+</edge>
+<edge source="Tại" target="MinMax">
+  <data key="d1">phần</data>
+</edge>
+</graph></graphml>
